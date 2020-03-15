@@ -39,6 +39,15 @@ module Prismdb
       end
     end
 
+    # @param key [String]
+    #
+    # @return [Prismdb::Response]
+    def song(key)
+      with_error_handling do
+        connection.get("/api/song/#{key}").body
+      end
+    end
+
     private
 
     # @return [Faraday::Connection]

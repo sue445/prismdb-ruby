@@ -87,4 +87,18 @@ RSpec.describe Prismdb::Client do
       its(:name) { should eq "あっちゃこっちゃゲーム" }
     end
   end
+
+  describe "#song" do
+    subject(:character) { client.song(key) }
+
+    before do
+      stub_request(:get, "https://prismdb.takanakahiko.me/api/song/make_it").
+        to_return(status: 200, body: fixture("song-make_it.json"))
+    end
+
+    let(:key) { "make_it" }
+
+    its(:name)      { should eq "Make it!" }
+    its(:name_kana) { should eq "めいくいっと" }
+  end
 end
