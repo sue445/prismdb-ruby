@@ -36,4 +36,23 @@ RSpec.describe Prismdb::Client do
     its(:birthday)  { should eq "11月20日" }
     its(:cv)        { should eq "茜屋日海夏" }
   end
+
+  describe "#episodes" do
+    subject(:episodes) { client.episodes }
+
+    before do
+      stub_request(:get, "https://prismdb.takanakahiko.me/api/episode").
+        to_return(status: 200, body: fixture("episode.json"))
+    end
+
+    its(:count) { should be > 0 }
+
+    describe "episodes[0]" do
+      subject { episodes[0] }
+
+      its("_key")       { should eq "ad_1" }
+      its("サブタイトル") { should eq "スタア誕生！" }
+      its("放送日(TXN)") { should eq "11/4/9" }
+    end
+  end
 end
