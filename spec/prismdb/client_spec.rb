@@ -22,7 +22,7 @@ RSpec.describe Prismdb::Client do
   end
 
   describe "#find_character" do
-    subject(:character) { client.find_character(key) }
+    subject { client.find_character(key) }
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/character/manaka_laala").
@@ -57,7 +57,7 @@ RSpec.describe Prismdb::Client do
   end
 
   describe "#find_episode" do
-    subject(:character) { client.find_episode(key) }
+    subject { client.find_episode(key) }
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/episode/pripara_1").
@@ -89,7 +89,7 @@ RSpec.describe Prismdb::Client do
   end
 
   describe "#find_song" do
-    subject(:character) { client.find_song(key) }
+    subject { client.find_song(key) }
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/song/make_it").
@@ -121,7 +121,7 @@ RSpec.describe Prismdb::Client do
   end
 
   describe "#find_live" do
-    subject(:character) { client.find_live(key) }
+    subject { client.find_live(key) }
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/live/pripara_1_make_it").
