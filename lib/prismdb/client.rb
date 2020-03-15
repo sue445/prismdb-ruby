@@ -55,6 +55,15 @@ module Prismdb
       end
     end
 
+    # @param key [String]
+    #
+    # @return [Prismdb::Response]
+    def live(key)
+      with_error_handling do
+        connection.get("/api/live/#{key}").body
+      end
+    end
+
     private
 
     # @return [Faraday::Connection]
