@@ -1,8 +1,9 @@
 # Prismdb
+[PrismDB](https://prismdb.takanakahiko.me/) API client for ruby
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/prismdb`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+[![test](https://github.com/sue445/prismdb-ruby/workflows/test/badge.svg?branch=master)](https://github.com/sue445/prismdb-ruby/actions?query=workflow%3Atest)
+[![Coverage Status](https://coveralls.io/repos/github/sue445/prismdb-ruby/badge.svg?branch=master)](https://coveralls.io/github/sue445/prismdb-ruby?branch=master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/091d941f30ffc69fbd4b/maintainability)](https://codeclimate.com/github/sue445/prismdb-ruby/maintainability)
 
 ## Installation
 

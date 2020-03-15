@@ -1,6 +1,16 @@
 require "prismdb/version"
+require "faraday"
+require "faraday_middleware"
 
 module Prismdb
+  autoload :Client,        "prismdb/client"
+  autoload :Configuration, "prismdb/configuration"
+  autoload :Response,      "prismdb/response"
+
   class Error < StandardError; end
-  # Your code goes here...
+
+  # @return [Prismdb::Configuration]
+  def self.config
+    @config ||= Configuration.new
+  end
 end

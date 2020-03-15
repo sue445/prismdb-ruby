@@ -1,5 +1,21 @@
+if ENV["CI"]
+  require "simplecov"
+  require "coveralls"
+
+  SimpleCov.formatter = Coveralls::SimpleCov::Formatter
+  SimpleCov.start do
+    %w[spec].each do |ignore_path|
+      add_filter(ignore_path)
+    end
+  end
+end
+
 require "bundler/setup"
 require "prismdb"
+
+Bundler.require
+
+Dir["#{__dir__}/support/**/*.rb"].each {|f| require f }
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
@@ -11,4 +27,10 @@ RSpec.configure do |config|
   config.expect_with :rspec do |c|
     c.syntax = :expect
   end
+
+  config.include FixtureUtil
+end
+
+def spec_dir
+  Pathname(__dir__)
 end
