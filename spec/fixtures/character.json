@@ -1,0 +1,393 @@
+{
+  "results": [
+    {
+      "birthday": "7月6日",
+      "blood_type": "O型",
+      "cv": "芹澤優",
+      "favorite_brand": "dolly_waltz",
+      "favorite_food": "紅茶",
+      "height": 147,
+      "name": "赤城 あんな",
+      "name_kana": "あかぎ あんな",
+      "type": "ラブリー",
+      "_key": "akagi_anna"
+    },
+    {
+      "cv": "伊藤かな恵",
+      "name": "赤井 めが姉ぇ",
+      "name_kana": "あかい めがねぇ",
+      "performerIn": "pripara_79_virtual_idol",
+      "_key": "akai_meganee"
+    },
+    {
+      "birthday": "1月25日",
+      "blood_type": "A型",
+      "cv": "厚木那奈美",
+      "favorite_brand": "secret_alice",
+      "favorite_food": "アップルパイ",
+      "height": 153,
+      "name": "青葉 りんか",
+      "name_kana": "あおば りんか",
+      "performerIn": "prichan_58_yumeiro_energy",
+      "type": "クール",
+      "_key": "aoba_rinka"
+    },
+    {
+      "cv": "佐々木李子",
+      "favorite_brand": "milky_rainbow",
+      "name": "だいあ",
+      "name_kana": "だいあ",
+      "type": "ポップ",
+      "_key": "daia"
+    },
+    {
+      "birthday": "2月5日",
+      "blood_type": "A型",
+      "charm": "ポップ",
+      "cv": "澁谷梓希",
+      "favorite_brand": "fortune_party",
+      "favorite_food": "もんじゃ焼き",
+      "memberOf": "solami_dressing_and_falulu",
+      "name": "ドロシー・ウェスト",
+      "name_kana": "どろしー うぇすと",
+      "_key": "dorothy_west"
+    },
+    {
+      "birthday": "3月21日",
+      "charm": "ラブリー",
+      "cv": "赤﨑千夏",
+      "favorite_brand": "marionette_mu",
+      "favorite_food": "牛乳",
+      "memberOf": "tricolore",
+      "name": "ファルル",
+      "name_kana": "ふぁるる",
+      "performerIn": "pripara_75_love_week_old",
+      "_key": "falulu"
+    },
+    {
+      "birthday": "4月17日",
+      "charm": "ラブリー",
+      "cv": "真田アサミ",
+      "favorite_brand": "marionette_mu",
+      "favorite_food": "アーモンドクッキー",
+      "memberOf": "garumageddon",
+      "name": "ガァルル",
+      "name_kana": "がぁるる",
+      "performerIn": "pripara_83_love_week_old",
+      "_key": "gaaruru"
+    },
+    {
+      "birthday": "9月12日",
+      "blood_type": "AB型",
+      "charm": "クール/プレミアム",
+      "cv": "山本希望",
+      "favorite_brand": "prismstone",
+      "favorite_food": "玉子",
+      "memberOf": "ucchari_big_bangs",
+      "name": "北条 コスモ",
+      "name_kana": "ほうじょう こすも",
+      "performerIn": "pripara_81_kimi_100_percent_jinse",
+      "_key": "hojo_cosmo"
+    },
+    {
+      "birthday": "7月30日",
+      "blood_type": "AB型",
+      "charm": "クール",
+      "cv": "久保田未夢",
+      "favorite_brand": "holic_trick",
+      "favorite_food": "梅干し",
+      "memberOf": "solami_smile",
+      "name": "北条 そふぃ",
+      "name_kana": "ほうじょう そふぃ",
+      "performerIn": "pripara_97_taiyo_no_flare_serbet_sakura_shower_ver",
+      "_key": "hojo_sophie"
+    },
+    {
+      "cv": "豊崎愛生",
+      "name": "ジャニス",
+      "name_kana": "じゃにす",
+      "_key": "janice"
+    },
+    {
+      "cv": "上田麗奈",
+      "favorite_food": "綿菓子",
+      "name": "ジュリィ",
+      "name_kana": "じゅりぃ",
+      "performerIn": "pripara_140_girls_fantasy",
+      "_key": "jewlie"
+    },
+    {
+      "cv": "田中美海",
+      "memberOf": "triangle",
+      "name": "じゅのん",
+      "name_kana": "じゅのん",
+      "performerIn": "pripara_92_charisma_to_girl_yeah",
+      "_key": "junon"
+    },
+    {
+      "birthday": "5月9日",
+      "cv": "茜屋日海夏",
+      "favorite_brand": "cutie_happiness",
+      "favorite_food": "アイスクリーム",
+      "name": "金森 まりあ",
+      "name_kana": "かなもり まりあ",
+      "performerIn": "prichan_57_shiawasei_kawaii_sanka",
+      "type": "ラブリー",
+      "_key": "kanamori_maria"
+    },
+    {
+      "cv": "田中美海",
+      "memberOf": "triangle",
+      "name": "かのん",
+      "name_kana": "かのん",
+      "performerIn": "pripara_94_charisma_to_girl_yeah",
+      "_key": "kanon"
+    },
+    {
+      "birthday": "11月3日",
+      "blood_type": "A型",
+      "charm": "ポップ",
+      "cv": "上田麗奈",
+      "favorite_brand": "candy_alamode_more",
+      "favorite_food": "チキンライス",
+      "memberOf": "ucchari_big_bangs",
+      "name": "黄木 あじみ",
+      "name_kana": "きき あじみ",
+      "performerIn": "pripara_72_panic_labyrinth",
+      "_key": "kiki_ajimi"
+    },
+    {
+      "birthday": "12月6日",
+      "cv": "徳井青空",
+      "favorite_brand": "dance_and_street",
+      "favorite_food": "モナカ",
+      "name": "黒川 すず",
+      "name_kana": "くろかわ すず",
+      "type": "クール",
+      "_key": "kurokawa_suzu"
+    },
+    {
+      "birthday": "6月6日",
+      "blood_type": "A型",
+      "charm": "クール",
+      "cv": "牧野由依",
+      "favorite_brand": "love_devi",
+      "favorite_food": "カレーうどん",
+      "memberOf": "garumageddon",
+      "name": "黒須 あろま",
+      "name_kana": "くろす あろま",
+      "_key": "kurosu_aroma"
+    },
+    {
+      "birthday": "2月5日",
+      "blood_type": "A型",
+      "charm": "ポップ",
+      "cv": "若井友希",
+      "favorite_brand": "fortune_party",
+      "favorite_food": "いちごパフェ",
+      "memberOf": "solami_dressing_and_falulu",
+      "name": "レオナ・ウェスト",
+      "name_kana": "れおな うぇすと",
+      "_key": "leona_west"
+    },
+    {
+      "birthday": "11月20日",
+      "blood_type": "O型",
+      "charm": "ラブリー",
+      "cv": "茜屋日海夏",
+      "favorite_brand": "twinkle_ribbon",
+      "favorite_food": "駄菓子",
+      "memberOf": "solami_smile",
+      "name": "真中 らぁら",
+      "name_kana": "まなか らぁら",
+      "performerIn": "pripara_50_dream_parade",
+      "_key": "manaka_laala"
+    },
+    {
+      "birthday": "9月6日",
+      "blood_type": "A型",
+      "cv": "田中美海",
+      "favorite_brand": "twinkle_ribbon_sweet",
+      "favorite_food": "パスタ",
+      "memberOf": "non_sugar",
+      "name": "真中 のん",
+      "name_kana": "まなか のん",
+      "_key": "manaka_non"
+    },
+    {
+      "birthday": "6月9日",
+      "blood_type": "O型",
+      "cv": "若井友希",
+      "favorite_brand": "romance_beat",
+      "favorite_food": "ステーキ",
+      "height": 163,
+      "name": "緑川 さら",
+      "name_kana": "みどりかわ さら",
+      "type": "クール",
+      "_key": "midorikawa_sara"
+    },
+    {
+      "birthday": "8月11日",
+      "blood_type": "O型",
+      "charm": "ナチュラル",
+      "cv": "佐藤あずさ",
+      "favorite_brand": "coco_flower",
+      "favorite_food": "お寿司",
+      "memberOf": "tricolore",
+      "name": "緑風 ふわり",
+      "name_kana": "みどりかぜ ふわり",
+      "performerIn": "pripara_59_konouta_tomareihi",
+      "_key": "midorikaze_fuwari"
+    },
+    {
+      "birthday": "10月1日",
+      "blood_type": "A型",
+      "charm": "ポップ",
+      "cv": "芹澤優",
+      "favorite_brand": "candy_alamode",
+      "favorite_food": "スイーツ全般",
+      "memberOf": "solami_smile",
+      "name": "南 みれぃ",
+      "name_kana": "みなみ みれぃ",
+      "performerIn": "pripara_84_pritto_perfect",
+      "_key": "minami_mirei"
+    },
+    {
+      "birthday": "9月9日",
+      "blood_type": "O型",
+      "cv": "久保田未夢",
+      "favorite_brand": "girls_yell",
+      "favorite_food": "ポップコーン",
+      "height": 150,
+      "name": "萌黄 えも",
+      "name_kana": "もえぎ えも",
+      "performerIn": "prichan_6_suki_suki_sensor",
+      "type": "ポップ",
+      "_key": "moegi_emo"
+    },
+    {
+      "birthday": "7月12日",
+      "blood_type": "B型",
+      "cv": "林鼓子",
+      "favorite_brand": "sweet_honey",
+      "favorite_food": "ケーキ",
+      "height": 150,
+      "name": "桃山 みらい",
+      "name_kana": "ももやま みらい",
+      "performerIn": "prichan_5_one_two_sweets",
+      "type": "ラブリー",
+      "_key": "momoyama_mirai"
+    },
+    {
+      "charm": "クール",
+      "cv": "赤﨑千夏",
+      "memberOf": "ucchari_big_bangs",
+      "name": "鍋島 ちゃん子",
+      "name_kana": "なべしま ちゃんこ",
+      "_key": "nabesima_chanko"
+    },
+    {
+      "cv": "阿澄佳奈",
+      "name": "七星 あいら",
+      "name_kana": "ななほし あいら",
+      "_key": "nanahoshi_aira"
+    },
+    {
+      "cv": "佐々木李子",
+      "favorite_brand": "milky_rainbow",
+      "name": "虹ノ咲 だいあ",
+      "name_kana": "にじのさき だいあ",
+      "type": "ポップ",
+      "_key": "nijinosaki_daia"
+    },
+    {
+      "cv": "田中美海",
+      "memberOf": "triangle",
+      "name": "ぴのん",
+      "name_kana": "ぴのん",
+      "performerIn": "pripara_93_charisma_to_girl_yeah",
+      "_key": "pinon"
+    },
+    {
+      "birthday": "4月23日",
+      "blood_type": "AB型",
+      "cv": "森嶋優花",
+      "favorite_brand": "universe_queen",
+      "favorite_food": "ドーナツ",
+      "name": "紫藤 める",
+      "name_kana": "しどう める",
+      "type": "クール",
+      "_key": "shidou_meru"
+    },
+    {
+      "birthday": "3月27日",
+      "blood_type": "B型",
+      "charm": "セレブ",
+      "cv": "斎賀みつき",
+      "favorite_brand": "brilliant_prince",
+      "favorite_food": "ガトーショコラ",
+      "memberOf": "tricolore",
+      "name": "紫京院 ひびき",
+      "name_kana": "しきょういん ひびき",
+      "performerIn": "pripara_74_jun_amore_ai",
+      "_key": "shikyoin_hibiki"
+    },
+    {
+      "birthday": "10月4日",
+      "blood_type": "B型",
+      "charm": "ラブリー",
+      "cv": "渡部優衣",
+      "favorite_brand": "silky_heart",
+      "favorite_food": "中華まん",
+      "memberOf": "pripara_police",
+      "name": "白玉 みかん",
+      "name_kana": "しらたま みかん",
+      "_key": "shiratama_mikan"
+    },
+    {
+      "birthday": "11月11日",
+      "blood_type": "A型",
+      "cv": "三森すずこ",
+      "favorite_brand": "precious_muse",
+      "name": "白鳥 アンジュ",
+      "name_kana": "しらとり あんじゅ",
+      "type": "プレミアム",
+      "_key": "shiratori_anjyu"
+    },
+    {
+      "birthday": "2月9日",
+      "blood_type": "O型",
+      "cv": "山下七海",
+      "favorite_brand": "sunny_zoo",
+      "favorite_food": "焼肉",
+      "memberOf": "non_sugar",
+      "name": "太陽 ペッパー",
+      "name_kana": "たいよう ぺっぱー",
+      "_key": "taiyo_pepper"
+    },
+    {
+      "birthday": "1月5日",
+      "blood_type": "B型",
+      "charm": "クール",
+      "cv": "山北早紀",
+      "favorite_brand": "baby_monster",
+      "favorite_food": "大福",
+      "memberOf": "solami_dressing_and_falulu",
+      "name": "東堂 シオン",
+      "name_kana": "とうどう しおん",
+      "performerIn": "pripara_90_zettai_seimei_final_show_jo",
+      "_key": "todo_shion"
+    },
+    {
+      "birthday": "11月15日",
+      "blood_type": "AB型",
+      "cv": "大森日雅",
+      "favorite_brand": "dear_crown",
+      "favorite_food": "栗きんとん",
+      "memberOf": "non_sugar",
+      "name": "月川 ちり",
+      "name_kana": "つきかわ ちり",
+      "_key": "tsukikawa_chiri"
+    }
+  ]
+}
