@@ -23,6 +23,15 @@ module Prismdb
       end
     end
 
+    # @param key [String]
+    #
+    # @return [Prismdb::Response]
+    def episode(key)
+      with_error_handling do
+        connection.get("/api/episode/#{key}").body
+      end
+    end
+
     private
 
     # @return [Faraday::Connection]

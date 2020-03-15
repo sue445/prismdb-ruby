@@ -55,4 +55,18 @@ RSpec.describe Prismdb::Client do
       its("放送日(TXN)") { should eq "11/4/9" }
     end
   end
+
+  describe "#episode" do
+    subject(:character) { client.episode(key) }
+
+    before do
+      stub_request(:get, "https://prismdb.takanakahiko.me/api/episode/pripara_1").
+        to_return(status: 200, body: fixture("episode-pripara_1.json"))
+    end
+
+    let(:key) { "pripara_1" }
+
+    its("サブタイトル") { should eq "アイドル始めちゃいました！" }
+    its("放送日(TXN)") { should eq "2014/7/5" }
+  end
 end
