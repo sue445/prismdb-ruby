@@ -151,4 +151,17 @@ RSpec.describe Prismdb::Client do
       its("タイトル") { should eq "プリティーリズム・オーロラドリーム" }
     end
   end
+
+  describe "#find_series" do
+    subject { client.find_series(key) }
+
+    before do
+      stub_request(:get, "https://prismdb.takanakahiko.me/api/series/pripara").
+        to_return(status: 200, body: fixture("series-pripara.json"))
+    end
+
+    let(:key) { "pripara" }
+
+    its("タイトル") { should eq "プリパラ" }
+  end
 end
