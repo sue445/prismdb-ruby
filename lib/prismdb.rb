@@ -1,6 +1,7 @@
 require "prismdb/version"
 
 module Prismdb
+  autoload :Client,        "prismdb/client"
   autoload :Configuration, "prismdb/configuration"
 
   class Error < StandardError; end
