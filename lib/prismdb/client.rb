@@ -64,6 +64,13 @@ module Prismdb
       end
     end
 
+    # @return [Array<Prismdb::Response>]
+    def get_series
+      with_error_handling do
+        connection.get("/api/series").body["results"]
+      end
+    end
+
     private
 
     # @return [Faraday::Connection]

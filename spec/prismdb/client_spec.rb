@@ -133,4 +133,22 @@ RSpec.describe Prismdb::Client do
     its(:performer)     { should eq "laala_and_mirei" }
     its(:songPerformed) { should eq "make_it" }
   end
+
+  describe "#get_series" do
+    subject(:series) { client.get_series }
+
+    before do
+      stub_request(:get, "https://prismdb.takanakahiko.me/api/series").
+        to_return(status: 200, body: fixture("series.json"))
+    end
+
+    its(:count) { should be > 0 }
+
+    describe "series[0]" do
+      subject { series[0] }
+
+      its(:_key)     { should eq "ad" }
+      its("タイトル") { should eq "プリティーリズム・オーロラドリーム" }
+    end
+  end
 end
