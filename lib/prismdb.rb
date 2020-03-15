@@ -1,8 +1,11 @@
 require "prismdb/version"
+require "faraday"
+require "faraday_middleware"
 
 module Prismdb
   autoload :Client,        "prismdb/client"
   autoload :Configuration, "prismdb/configuration"
+  autoload :Response,      "prismdb/response"
 
   class Error < StandardError; end
 

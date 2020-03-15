@@ -1,6 +1,10 @@
 require "bundler/setup"
 require "prismdb"
 
+Bundler.require
+
+Dir["#{__dir__}/support/**/*.rb"].each {|f| require f }
+
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
   config.example_status_persistence_file_path = ".rspec_status"
@@ -11,4 +15,10 @@ RSpec.configure do |config|
   config.expect_with :rspec do |c|
     c.syntax = :expect
   end
+
+  config.include FixtureUtil
+end
+
+def spec_dir
+  Pathname(__dir__)
 end

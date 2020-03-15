@@ -1,4 +1,4 @@
-module Prisbdb
+module Prismdb
   class Configuration
     # @!attribute debug_logger
     #   @return [Logger]
