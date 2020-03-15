@@ -1,0 +1,918 @@
+{
+  "results": [
+    {
+      "lives": [],
+      "name": "あっちゃこっちゃゲーム",
+      "name_kana": "あっちゃこっちゃげーむ",
+      "_key": "accha_koccha_game"
+    },
+    {
+      "lives": [
+        "pripara_105_amazing_castle",
+        "pripara_106_amazing_castle",
+        "pripara_114_amazing_castle",
+        "pripara_119_amazing_castle",
+        "pripara_126_amazing_castle",
+        "pripara_132_amazing_castle",
+        "pripara_140_amazing_castle"
+      ],
+      "name": "アメイジング・キャッスル",
+      "name_kana": "あめいじんぐきゃっする",
+      "_key": "amazing_castle"
+    },
+    {
+      "lives": [
+        "pripara_86_around_the_pripara_land",
+        "pripara_88_around_the_pripara_land"
+      ],
+      "name": "アラウンド・ザ・プリパランド！",
+      "name_kana": "あらうんどざぷりぱらんど",
+      "_key": "around_the_pripara_land"
+    },
+    {
+      "lives": [],
+      "name": "Believe My DREAM!!",
+      "name_kana": "びりーぶまいどりーむ",
+      "_key": "believe_my_dream"
+    },
+    {
+      "lives": [],
+      "name": "Brand New Dreamer",
+      "name_kana": "ぶらんにゅーどりーまー",
+      "_key": "brand_new_dreamer"
+    },
+    {
+      "lives": [],
+      "name": "ブランニュー・ハピネス！",
+      "name_kana": "ぶらんにゅーはぴねす",
+      "_key": "brand_new_happiness!"
+    },
+    {
+      "lives": [],
+      "name": "ブライトファンタジー",
+      "name_kana": "ぶらいとふぁんたじー",
+      "_key": "bright_fantasy"
+    },
+    {
+      "lives": [
+        "pripara_110_change_my_world",
+        "pripara_22_change_my_world",
+        "pripara_23_change_my_world",
+        "pripara_28_change_my_world",
+        "pripara_30_change_my_world",
+        "pripara_33_change_my_world",
+        "pripara_51_change_my_world",
+        "pripara_53_change_my_world",
+        "pripara_60_change_my_world"
+      ],
+      "name": "CHANGE! MY WORLD",
+      "name_kana": "ちぇんじまいわーるど",
+      "_key": "change_my_world"
+    },
+    {
+      "lives": [
+        "pripara_101_charisma_to_girl_yeah",
+        "pripara_103_charisma_to_girl_yeah",
+        "pripara_113_charisma_to_girl_yeah",
+        "pripara_116_charisma_to_girl_yeah",
+        "pripara_118_charisma_to_girl_yeah",
+        "pripara_92_charisma_to_girl_yeah",
+        "pripara_93_charisma_to_girl_yeah",
+        "pripara_94_charisma_to_girl_yeah",
+        "pripara_98_charisma_to_girl_yeah"
+      ],
+      "name": "かりすま～とGIRL☆Yeah!",
+      "name_kana": "かりすまーとがーるいぇい",
+      "_key": "charisma_to_girl_yeah"
+    },
+    {
+      "lives": [],
+      "name": "COMETIC SILHOUETTE",
+      "name_kana": "こめてぃっくしるえっと",
+      "_key": "cometic_silhouette"
+    },
+    {
+      "lives": [],
+      "name": "Dear My Future　～未来の自分へ～",
+      "name_kana": "でぃあまいふゅーちゃー みらいのじぶんへ",
+      "_key": "dear_my_future_miraino_jibunhe"
+    },
+    {
+      "lives": [
+        "pripara_104_debi_en_reversible_ring",
+        "pripara_40_debi_en_reversible_ring",
+        "pripara_45_debi_en_reversible_ring",
+        "pripara_46_debi_en_reversible_ring",
+        "pripara_54_debi_en_reversible_ring",
+        "pripara_76_debi_en_reversible_ring",
+        "pripara_82_debi_en_reversible_ring",
+        "pripara_90_debi_en_reversible_ring",
+        "pripara_96_debi_en_reversible_ring"
+      ],
+      "name": "でび&えん☆Reversible-Ring",
+      "name_kana": "でびえんりばーしぶりんぐ",
+      "_key": "debi_en_reversible_ring"
+    },
+    {
+      "lives": [],
+      "name": "ダイヤモンドスマイル",
+      "name_kana": "だいやもんどすまいる",
+      "_key": "diamond_smile"
+    },
+    {
+      "lives": [],
+      "name": "Dream Goes On",
+      "name_kana": "どりーむごーずおん",
+      "_key": "dream_goes_on"
+    },
+    {
+      "lives": [
+        "pripara_39_dream_parade",
+        "pripara_41_dream_parade",
+        "pripara_43_dream_parade",
+        "pripara_47_dream_parade",
+        "pripara_50_dream_parade",
+        "pripara_51_dream_parade",
+        "pripara_53_dream_parade",
+        "pripara_59_dream_parade",
+        "pripara_61_dream_parade",
+        "pripara_69_dream_parade",
+        "pripara_82_dream_parade",
+        "pripara_88_dream_parade"
+      ],
+      "name": "ドリームパレード",
+      "name_kana": "どりーむぱれーど",
+      "_key": "dream_parade"
+    },
+    {
+      "lives": [],
+      "name": "1/1000永遠の美学",
+      "name_kana": "せんぶんのいちえいえんのびがく",
+      "_key": "eien_no_bigaku"
+    },
+    {
+      "lives": [],
+      "name": "フォーチュン・カラット",
+      "name_kana": "ふぉーちゅんからっと",
+      "_key": "fortune_carat"
+    },
+    {
+      "lives": [],
+      "name": "Get Over Dress-code",
+      "name_kana": "げっとおーばーどれすこーど",
+      "_key": "get_over_dress_code"
+    },
+    {
+      "lives": [],
+      "name": "Giraギャラティック・タイトロープ",
+      "name_kana": "ぎらぎゃらくてぃっくたいとろーぷ",
+      "_key": "gira_galactic_tightrope"
+    },
+    {
+      "lives": [
+        "pripara_117_girls_fantasy",
+        "pripara_124_girls_fantasy",
+        "pripara_130_girls_fantasy",
+        "pripara_138_girls_fantasy",
+        "pripara_140_girls_fantasy"
+      ],
+      "name": "Girl's Fantasy",
+      "name_kana": "がーるずふぁんたじー",
+      "_key": "girls_fantasy"
+    },
+    {
+      "lives": [],
+      "name": "Go! Up! スターダム！",
+      "name_kana": "ごーあっぷすたーだむ",
+      "_key": "go_up_stardum"
+    },
+    {
+      "lives": [],
+      "name": "Goin'on",
+      "name_kana": "ごーいんおん",
+      "_key": "goin_on"
+    },
+    {
+      "lives": [],
+      "name": "GOスト♭コースター",
+      "name_kana": "ごーすとこーすたー",
+      "_key": "gost_coaster"
+    },
+    {
+      "lives": [],
+      "name": "Growin‘ Jewel!",
+      "name_kana": "ぐろーいんじゅえる",
+      "_key": "growin_jewel"
+    },
+    {
+      "lives": [
+        "pripara_22_happy_pa_lucky",
+        "pripara_24_happy_pa_lucky",
+        "pripara_27_happy_pa_lucky",
+        "pripara_29_happy_pa_lucky",
+        "pripara_30_happy_pa_lucky",
+        "pripara_32_happy_pa_lucky",
+        "pripara_61_happy_pa_lucky",
+        "pripara_81_happy_pa_lucky"
+      ],
+      "name": "HAPPYぱLUCKY",
+      "name_kana": "はっぴーぱらっきー",
+      "_key": "happy_pa_lucky"
+    },
+    {
+      "lives": [],
+      "name": "ハートフル♡ドリーム",
+      "name_kana": "はーとふるどりーむ",
+      "_key": "heartful_dream"
+    },
+    {
+      "lives": [
+        "pripara_138_i_friend_you",
+        "pripara_139_i_friend_you"
+      ],
+      "name": "組曲フォーエバー☆フレンズ ～第一楽章～ I FRIEND YOU!!",
+      "name_kana": "くみきょくふぉーえばーふれんず だいいちがくしょう あいふれんどゆー",
+      "_key": "i_friend_you"
+    },
+    {
+      "lives": [],
+      "name": "I Just Wanna Be With You ~仮想(ヴァーチャル)と真実(リアル)の狭間で~",
+      "name_kana": "あいじゃすとわなびーうぃずゆー ばーちゃるとりあるのはざまで",
+      "_key": "i_just_wana_be_with_you"
+    },
+    {
+      "lives": [
+        "pripara_129_idle_wo_torimodose",
+        "pripara_131_idle_wo_torimodose",
+        "pripara_133_idle_wo_torimodose",
+        "pripara_140_idle_wo_torimodose"
+      ],
+      "name": "愛ドルを取り戻せ！",
+      "name_kana": "あいどるをとりもどせ",
+      "_key": "idle_wo_torimodose"
+    },
+    {
+      "lives": [],
+      "name": "アイドルキンリョク♥Lesson GO!",
+      "name_kana": "あいどるきんりょくれっすんごー",
+      "_key": "idol_kinryoku_lesson_go"
+    },
+    {
+      "lives": [],
+      "name": "アイドル:タイム!!",
+      "name_kana": "あいどるたいむ",
+      "_key": "idol_time"
+    },
+    {
+      "lives": [],
+      "name": "じゃんけんキラッと！プリ☆チャン",
+      "name_kana": "じゃんけんきらっとぷりちゃん",
+      "_key": "janken_kiratto_prichan"
+    },
+    {
+      "lives": [],
+      "name": "Jumpin'! Dancin'!",
+      "name_kana": "じゃんぴんだんしん",
+      "_key": "jumpin_dancin"
+    },
+    {
+      "lives": [
+        "pripara_111_jun_amore_ai",
+        "pripara_73_jun_amore_ai",
+        "pripara_74_jun_amore_ai"
+      ],
+      "name": "純・アモーレ・愛",
+      "name_kana": "ぴゅあもーれあい",
+      "_key": "jun_amore_ai"
+    },
+    {
+      "lives": [],
+      "name": "Just be yourself",
+      "name_kana": "じゃすとびーゆあせるふ",
+      "_key": "just_be_yourself"
+    },
+    {
+      "lives": [
+        "pripara_107_just_my_chance_call"
+      ],
+      "name": "Just My Chance Call",
+      "name_kana": "じゃすとまいちゃんすこーる",
+      "_key": "just_my_chance_call"
+    },
+    {
+      "lives": [],
+      "name": "快打洗心♡カッキンBUDDY",
+      "name_kana": "かいだせんしんかっきんばでぃー",
+      "_key": "kaida_sensin_kakkin_buddy"
+    },
+    {
+      "lives": [
+        "pripara_31_kimi_100_percent_jinse",
+        "pripara_81_kimi_100_percent_jinse"
+      ],
+      "name": "君100%人生",
+      "name_kana": "きみひゃくぱーせんとじんせい",
+      "_key": "kimi_100_percent_jinse"
+    },
+    {
+      "lives": [],
+      "name": "KIRA KIRA ホログラム",
+      "name_kana": "きらきらほろぐらむ",
+      "_key": "kira_kira_holography"
+    },
+    {
+      "lives": [],
+      "name": "キラキランウェイ☆",
+      "name_kana": "きらきらんうぇい",
+      "_key": "kiraki_runway"
+    },
+    {
+      "lives": [],
+      "name": "キラリ覚醒☆リインカーネーション",
+      "name_kana": "きらりかくせいりいんかーねーしょん",
+      "_key": "kirari_kakusei_reincarnation"
+    },
+    {
+      "lives": [],
+      "name": "キラッとスタート",
+      "name_kana": "きらっとすたーと",
+      "_key": "kiratto_start"
+    },
+    {
+      "lives": [
+        "pripara_108_konouta_tomareihi",
+        "pripara_52_konouta_tomareihi",
+        "pripara_55_konouta_tomareihi",
+        "pripara_59_konouta_tomareihi",
+        "pripara_89_konouta_tomareihi"
+      ],
+      "name": "コノウタトマレイヒ",
+      "name_kana": "このうたとまれいひ",
+      "_key": "konouta_tomareihi"
+    },
+    {
+      "lives": [
+        "pripara_35_love_friend_style",
+        "pripara_36_love_friend_style",
+        "pripara_38_love_friend_style",
+        "pripara_61_love_friend_style",
+        "pripara_87_love_friend_style"
+      ],
+      "name": "Love friend style",
+      "name_kana": "らぶふれんどすたいる",
+      "_key": "love_friend_style"
+    },
+    {
+      "lives": [
+        "pripara_138_love_is_friend"
+      ],
+      "name": "組曲フォーエバー☆フレンズ ～第二楽章～ LOVE IS FRIEND",
+      "name_kana": "くみきょくふぉーえばーふれんず だいにがくしょう らぶいずふれんど",
+      "_key": "love_is_friend"
+    },
+    {
+      "lives": [],
+      "name": "LOVE TROOPER",
+      "name_kana": "らぶとるーぱー",
+      "_key": "love_trooper"
+    },
+    {
+      "lives": [
+        "pripara_111_love_week_old",
+        "pripara_133_love_week_old",
+        "pripara_58_love_week_old",
+        "pripara_70_love_week_old",
+        "pripara_75_love_week_old",
+        "pripara_80_love_week_old",
+        "pripara_81_love_week_old",
+        "pripara_83_love_week_old"
+      ],
+      "name": "0（ラブ）-week-old",
+      "name_kana": "らぶうぃーくおーるど",
+      "_key": "love_week_old"
+    },
+    {
+      "lives": [
+        "pripara_48_lucky_surprise_birthday",
+        "pripara_71_lucky_surprise_birthday"
+      ],
+      "name": "ラッキー！サプライズ☆バースデイ",
+      "name_kana": "らっきーさぷらいずばーすでい",
+      "_key": "lucky_surprise_birthday"
+    },
+    {
+      "lives": [
+        "pripara_135_make_it",
+        "pripara_1_make_it",
+        "pripara_2_make_it",
+        "pripara_37_make_it",
+        "pripara_3_make_it",
+        "pripara_4_make_it",
+        "pripara_5_make_it",
+        "pripara_63_make_it",
+        "pripara_9_make_it"
+      ],
+      "name": "Make it!",
+      "name_kana": "めいくいっと",
+      "_key": "make_it"
+    },
+    {
+      "lives": [],
+      "name": "Make it! ~Remake It☆Remix~",
+      "name_kana": "めいくいっとりめいくいっとりみっくす",
+      "_key": "make_it_remake_it_remix"
+    },
+    {
+      "lives": [
+        "pripara_107_marble_make_up_a_ha_ha",
+        "pripara_10_marble_make_up_a_ha_ha",
+        "pripara_122_marble_make_up_a_ha_ha",
+        "pripara_33_marble_make_up_a_ha_ha",
+        "pripara_61_marble_make_up_a_ha_ha",
+        "pripara_68_marble_make_up_a_ha_ha",
+        "pripara_6_marble_make_up_a_ha_ha",
+        "pripara_7_marble_make_up_a_ha_ha",
+        "pripara_8_marble_make_up_a_ha_ha"
+      ],
+      "name": "ま～ぶるMake up a-ha-ha!",
+      "name_kana": "まーぶるめいくあっぷあはは",
+      "_key": "marble_make_up_a_ha_ha"
+    },
+    {
+      "lives": [],
+      "name": "Memorial",
+      "name_kana": "めもりある",
+      "_key": "memorial"
+    },
+    {
+      "lives": [
+        "pripara_139_memories_medley"
+      ],
+      "name": "組曲フォーエバー☆フレンズ ～インターリュード～ メモリーズ・メドレー",
+      "name_kana": "くみきょくふぉーえばーふれんず いんたーりゅーど めもりーずめどれー",
+      "_key": "memories_medley"
+    },
+    {
+      "lives": [],
+      "name": "ミラクル☆パラダイス",
+      "name_kana": "みらくるぱらだいす",
+      "_key": "miracle_paradise"
+    },
+    {
+      "lives": [],
+      "name": "Miss.プリオネア",
+      "name_kana": "みすぷりおねあ",
+      "_key": "miss_prionaire"
+    },
+    {
+      "lives": [
+        "pripara_114_mon_chouchou",
+        "pripara_115_mon_chouchou",
+        "pripara_133_mon_chouchou",
+        "pripara_135_mon_chouchou",
+        "pripara_140_mon_chouchou"
+      ],
+      "name": "Mon chouchou",
+      "name_kana": "もんしゅしゅ",
+      "_key": "mon_chouchou"
+    },
+    {
+      "lives": [],
+      "name": "胸キュンLove Song",
+      "name_kana": "むねきゅんらぶそんぐ",
+      "_key": "mune_kyun_love_song"
+    },
+    {
+      "lives": [
+        "pripara_139_my_friend_dear_friend"
+      ],
+      "name": "組曲フォーエバー☆フレンズ ～第三楽章～ My Friend, Dear Friend",
+      "name_kana": "くみきょくふぉーえばーふれんず だいさんがくしょう まいふれんどでぃあふれんど",
+      "_key": "my_friend_dear_friend"
+    },
+    {
+      "lives": [],
+      "name": "Neo Dimension Go!!",
+      "name_kana": "ねおでぃめんしょんごー",
+      "_key": "neo_dimension_go"
+    },
+    {
+      "lives": [],
+      "name": "寝ても覚めてもDREAMIN' GIRL",
+      "name_kana": "ねてもさめてもどりーみんがーる",
+      "_key": "netemo_sametemo_dreamin_girl"
+    },
+    {
+      "lives": [],
+      "name": "never-ending!!",
+      "name_kana": "ねばーえんでぃんぐ",
+      "_key": "never_ending"
+    },
+    {
+      "lives": [
+        "pripara_140_no_d_and_d_code",
+        "pripara_14_no_d_and_d_code",
+        "pripara_15_no_d_and_d_code",
+        "pripara_18_no_d_and_d_code",
+        "pripara_20_no_d_and_d_code",
+        "pripara_21_no_d_and_d_code",
+        "pripara_33_no_d_and_d_code",
+        "pripara_44_no_d_and_d_code",
+        "pripara_49_no_d_and_d_code"
+      ],
+      "name": "No D&D code",
+      "name_kana": "のーでぃーあんどでぃーこーど",
+      "_key": "no_d_and_d_code"
+    },
+    {
+      "lives": [
+        "pripara_66_omu_omelet",
+        "pripara_67_omu_omelet",
+        "pripara_88_omu_omelet"
+      ],
+      "name": "オムオムライス",
+      "name_kana": "おむおむらいす",
+      "_key": "omu_omelet"
+    },
+    {
+      "lives": [
+        "prichan_5_one_two_sweets"
+      ],
+      "name": "ワン・ツー・スウィーツ",
+      "name_kana": "わんつーすうぃーつ",
+      "_key": "one_two_sweets"
+    },
+    {
+      "lives": [],
+      "name": "おしゃまトリックスの歌",
+      "name_kana": "おしゃまとりっくすのうた",
+      "_key": "oshama_tricks_no_uta"
+    },
+    {
+      "lives": [],
+      "name": "乙女アテンションプリーズ",
+      "name_kana": "おとめあてんしょんぷりーず",
+      "_key": "otome_attention_please"
+    },
+    {
+      "lives": [
+        "pripara_107_panic_labyrinth",
+        "pripara_64_panic_labyrinth",
+        "pripara_65_panic_labyrinth",
+        "pripara_72_panic_labyrinth"
+      ],
+      "name": "パニックラビリンス",
+      "name_kana": "ぱにっくらびりんす",
+      "_key": "panic_labyrinth"
+    },
+    {
+      "lives": [
+        "pripara_111_papipupe_police",
+        "pripara_69_papipupe_police",
+        "pripara_72_papipupe_police"
+      ],
+      "name": "ぱぴぷぺ☆POLICE!",
+      "name_kana": "ぱぴぷぺぽりす",
+      "_key": "papipupe_police"
+    },
+    {
+      "lives": [],
+      "name": "パーフェクト・フィナーレ",
+      "name_kana": "ぱーふぇくとふぃなーれ",
+      "_key": "perfect_finale"
+    },
+    {
+      "lives": [],
+      "name": "Play Sound☆",
+      "name_kana": "ぷれいさうんど",
+      "_key": "play_sound"
+    },
+    {
+      "lives": [],
+      "name": "プリティー☆チャンネル",
+      "name_kana": "ぷりてぃーちゃんねる",
+      "_key": "pretty_channel"
+    },
+    {
+      "lives": [
+        "pripara_107_pretty_prism_paradise",
+        "pripara_12_pretty_prism_paradise",
+        "pripara_13_pretty_prism_paradise",
+        "pripara_14_pretty_prism_paradise",
+        "pripara_15_pretty_prism_paradise",
+        "pripara_16_pretty_prism_paradise",
+        "pripara_17_pretty_prism_paradise",
+        "pripara_18_pretty_prism_paradise",
+        "pripara_19_pretty_prism_paradise",
+        "pripara_20_pretty_prism_paradise",
+        "pripara_21_pretty_prism_paradise",
+        "pripara_33_pretty_prism_paradise",
+        "pripara_61_pretty_prism_paradise",
+        "pripara_68_pretty_prism_paradise"
+      ],
+      "name": "Pretty Prism Paradise!!!",
+      "name_kana": "ぷりてぃーぷりずむぱらだいす",
+      "_key": "pretty_prism_paradise"
+    },
+    {
+      "lives": [],
+      "name": "プリパラ☆ダンシング!!!",
+      "name_kana": "ぷりぱらだんしんぐ",
+      "_key": "pripara_dancing"
+    },
+    {
+      "lives": [
+        "pripara_84_pritto_perfect"
+      ],
+      "name": "ぷりっとぱ～ふぇくと",
+      "name_kana": "ぷりっとぱーふぇくと",
+      "_key": "pritto_perfect"
+    },
+    {
+      "lives": [
+        "pripara_102_rainbow_melody"
+      ],
+      "name": "レインボウ・メロディー♪",
+      "name_kana": "れいんぼうめろでぃー",
+      "_key": "rainbow_melody"
+    },
+    {
+      "lives": [
+        "prichan_1_ready_action"
+      ],
+      "name": "レディー・アクション！",
+      "name_kana": "れでぃーあくしょん",
+      "_key": "ready_action"
+    },
+    {
+      "lives": [
+        "pripara_103_ready_smile",
+        "pripara_109_ready_smile",
+        "pripara_110_ready_smile",
+        "pripara_112_ready_smile",
+        "pripara_115_ready_smile",
+        "pripara_122_ready_smile",
+        "pripara_125_ready_smile",
+        "pripara_126_ready_smile",
+        "pripara_134_ready_smile"
+      ],
+      "name": "Ready Smile!!",
+      "name_kana": "れでぃーすまいる",
+      "_key": "ready_smile"
+    },
+    {
+      "lives": [
+        "pripara_136_realize",
+        "pripara_25_realize",
+        "pripara_26_realize",
+        "pripara_63_realize",
+        "pripara_76_realize"
+      ],
+      "name": "Realize!",
+      "name_kana": "りあらいず",
+      "_key": "realize"
+    },
+    {
+      "lives": [],
+      "name": "Red Flash Revolution",
+      "name_kana": "れっどふらっしゅれぼりゅーしょん",
+      "_key": "red_flash_fevolution"
+    },
+    {
+      "lives": [],
+      "name": "リンリン♪がぁらふぁらんど",
+      "name_kana": "りんりんがぁらふぁらんど",
+      "_key": "ring_ring_garafaland"
+    },
+    {
+      "lives": [
+        "pripara_100_run_for_jumping",
+        "pripara_101_run_for_jumping",
+        "pripara_102_run_for_jumping",
+        "pripara_109_run_for_jumping",
+        "pripara_115_run_for_jumping",
+        "pripara_121_run_for_jumping",
+        "pripara_126_run_for_jumping",
+        "pripara_132_run_for_jumping",
+        "pripara_99_run_for_jumping"
+      ],
+      "name": "ラン♪ for ジャンピン!",
+      "name_kana": "らんふぉーじゃんぴん",
+      "_key": "run_for_jumping"
+    },
+    {
+      "lives": [],
+      "name": "最上級ぱらどっくす",
+      "name_kana": "さいじょうきゅうぱらどっくす",
+      "_key": "saijokyu_paradox"
+    },
+    {
+      "lives": [
+        "prichan_56_shiawasei_kawaii_sanka",
+        "prichan_57_shiawasei_kawaii_sanka"
+      ],
+      "name": "シアワ星かわいい賛歌",
+      "name_kana": "しあわせいかわいいさんか",
+      "_key": "shiawasei_kawaii_sanka"
+    },
+    {
+      "lives": [],
+      "name": "SHINING FLOWER",
+      "name_kana": "しゃいにんぐふらわー",
+      "_key": "shining_flower"
+    },
+    {
+      "lives": [],
+      "name": "Shining Star",
+      "name_kana": "しゃいにんぐすたー",
+      "_key": "shining_star"
+    },
+    {
+      "lives": [],
+      "name": "すた～らいとカーニバル☆",
+      "name_kana": "すたーらいとかーにばる",
+      "_key": "starlight_carnival"
+    },
+    {
+      "lives": [
+        "pripara_120_sugarless_friend",
+        "pripara_123_sugarless_friend",
+        "pripara_124_sugarless_friend",
+        "pripara_127_sugarless_friend",
+        "pripara_128_sugarless_friend",
+        "pripara_134_sugarless_friend",
+        "pripara_140_sugarless_friend"
+      ],
+      "name": "シュガーレス×フレンド",
+      "name_kana": "しゅがーれすふれんど",
+      "_key": "sugarless_friend"
+    },
+    {
+      "lives": [
+        "prichan_6_suki_suki_sensor"
+      ],
+      "name": "スキスキセンサー",
+      "name_kana": "すきすきせんさー",
+      "_key": "suki_suki_sensor"
+    },
+    {
+      "lives": [],
+      "name": "サンシャイン・ベル!",
+      "name_kana": "さんしゃいんべる",
+      "_key": "sunshine_bell"
+    },
+    {
+      "lives": [],
+      "name": "SUPER CUTIE SUPER GIRL",
+      "name_kana": "すーぱーきゅーてぃーすーぱーがーる",
+      "_key": "super_cutie_super_girl"
+    },
+    {
+      "lives": [
+        "pripara_11_taiyo_no_flare_serbet",
+        "pripara_21_taiyo_no_flare_serbet",
+        "pripara_3_taiyo_no_flare_serbet",
+        "pripara_5_taiyo_no_flare_serbet",
+        "pripara_61_taiyo_no_flare_serbet",
+        "pripara_79_taiyo_no_flare_serbet",
+        "pripara_7_taiyo_no_flare_serbet"
+      ],
+      "name": "太陽のflare sherbet",
+      "name_kana": "たいようのふれあしゃーべっと",
+      "_key": "taiyo_no_flare_serbet"
+    },
+    {
+      "lives": [
+        "pripara_42_taiyo_no_flare_serbet_sakura_shower_ver",
+        "pripara_97_taiyo_no_flare_serbet_sakura_shower_ver"
+      ],
+      "name": "太陽のflare sherbet サクラシャワーver.",
+      "name_kana": "たいようのふれあしゃーべっと さくらしゃわーばーじょん",
+      "_key": "taiyo_no_flare_serbet_sakura_shower_ver"
+    },
+    {
+      "lives": [],
+      "name": "Thankyou♥Birthday",
+      "name_kana": "さんきゅーばーすでい",
+      "_key": "thank_you_birthday"
+    },
+    {
+      "lives": [],
+      "name": "チクタク・Magicaる・アイドルタイム!",
+      "name_kana": "ちくたくまじかるあいどるたいむ",
+      "_key": "ticktock_magical_idol_time"
+    },
+    {
+      "lives": [
+        "prichan_52_tokimeki_heart_jewel"
+      ],
+      "name": "TOKIMEKIハート・ジュエル♪",
+      "name_kana": "ときめきはーとじゅえる",
+      "_key": "tokimeki_heart_jewel"
+    },
+    {
+      "lives": [
+        "pripara_110_tondemo_summer_adventure",
+        "pripara_56_tondemo_summer_adventure",
+        "pripara_57_tondemo_summer_adventure",
+        "pripara_88_tondemo_summer_adventure"
+      ],
+      "name": "トンでもSUMMER ADVENTURE",
+      "name_kana": "とんでもさまーあどべんちゃー",
+      "_key": "tondemo_summer_adventure"
+    },
+    {
+      "lives": [
+        "pripara_101_triangle_star",
+        "pripara_89_triangle_star",
+        "pripara_90_triangle_star",
+        "pripara_91_triangle_star",
+        "pripara_93_triangle_star",
+        "pripara_95_triangle_star"
+      ],
+      "name": "トライアングル・スター",
+      "name_kana": "とらいあんぐるすたー",
+      "_key": "triangle_star"
+    },
+    {
+      "lives": [
+        "pripara_85_twin_mirror_compact",
+        "pripara_90_twin_mirror_compact"
+      ],
+      "name": "Twin mirror♥compact",
+      "name_kana": "ついんみらーこんぱくと",
+      "_key": "twin_mirror_compact"
+    },
+    {
+      "lives": [
+        "pripara_107_virtual_idol",
+        "pripara_79_virtual_idol"
+      ],
+      "name": "ヴァーチャデリアイドル♥",
+      "name_kana": "ばーちゃでりあいどる",
+      "_key": "virtual_idol"
+    },
+    {
+      "lives": [
+        "pripara_139_we_are_the_friends"
+      ],
+      "name": "組曲フォーエバー☆フレンズ ～第四楽章～ ウィー・アー・ザ・フレンズ!",
+      "name_kana": "くみきょくふぉーえばーふれんず だいよんがくしょう うぃーあーざふれんず",
+      "_key": "we_are_the_friends"
+    },
+    {
+      "lives": [],
+      "name": "WELCOME TO DREAM",
+      "name_kana": "うぇるかむとぅどりーむ",
+      "_key": "welcome_to_dream"
+    },
+    {
+      "lives": [
+        "pripara_77_what_a_wonder_pri_world",
+        "pripara_78_what_a_wonder_pri_world",
+        "pripara_88_what_a_wonder_pri_world"
+      ],
+      "name": "ホワット・ア・ワンダプリ・ワールド!!",
+      "name_kana": "ほわっとあわんだぷりわーるど",
+      "_key": "what_a_wonder_pri_world"
+    },
+    {
+      "lives": [
+        "ad_1_you_may_dream"
+      ],
+      "name": "You May Dream",
+      "name_kana": "ゆーめいどりーむ",
+      "_key": "you_may_dream"
+    },
+    {
+      "lives": [
+        "prichan_58_yumeiro_energy"
+      ],
+      "name": "夢色エナジー",
+      "name_kana": "ゆめいろえなじー",
+      "_key": "yumeiro_energy"
+    },
+    {
+      "lives": [
+        "pripara_26_zero_week_old",
+        "pripara_30_zero_week_old",
+        "pripara_31_zero_week_old",
+        "pripara_33_zero_week_old",
+        "pripara_34_zero_week_old",
+        "pripara_35_zero_week_old"
+      ],
+      "name": "0（ゼロ）-week-old",
+      "name_kana": "ぜろうぃーくおーるど",
+      "_key": "zero_week_old"
+    },
+    {
+      "lives": [
+        "pripara_62_zettai_seimei_final_show_jo",
+        "pripara_90_zettai_seimei_final_show_jo"
+      ],
+      "name": "絶対生命 final show女",
+      "name_kana": "ぜったいせいめいふぁいなるしょうじょ",
+      "_key": "zettai_seimei_final_show_jo"
+    }
+  ]
+}

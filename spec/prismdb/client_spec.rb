@@ -69,4 +69,36 @@ RSpec.describe Prismdb::Client do
     its("サブタイトル") { should eq "アイドル始めちゃいました！" }
     its("放送日(TXN)") { should eq "2014/7/5" }
   end
+
+  describe "#songs" do
+    subject(:songs) { client.songs }
+
+    before do
+      stub_request(:get, "https://prismdb.takanakahiko.me/api/song").
+        to_return(status: 200, body: fixture("song.json"))
+    end
+
+    its(:count) { should be > 0 }
+
+    describe "songs[0]" do
+      subject { songs[0] }
+
+      its(:_key) { should eq "accha_koccha_game" }
+      its(:name) { should eq "あっちゃこっちゃゲーム" }
+    end
+  end
+
+  describe "#song" do
+    subject(:character) { client.song(key) }
+
+    before do
+      stub_request(:get, "https://prismdb.takanakahiko.me/api/song/make_it").
+        to_return(status: 200, body: fixture("song-make_it.json"))
+    end
+
+    let(:key) { "make_it" }
+
+    its(:name)      { should eq "Make it!" }
+    its(:name_kana) { should eq "めいくいっと" }
+  end
 end
