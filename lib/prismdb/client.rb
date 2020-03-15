@@ -32,6 +32,13 @@ module Prismdb
       end
     end
 
+    # @return [Array<Prismdb::Response>]
+    def songs
+      with_error_handling do
+        connection.get("/api/song").body["results"]
+      end
+    end
+
     private
 
     # @return [Faraday::Connection]
