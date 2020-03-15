@@ -1,6 +1,7 @@
 # Prismdb
 [PrismDB](https://prismdb.takanakahiko.me/) API client for ruby
 
+[![Gem Version](https://badge.fury.io/rb/prismdb.svg)](https://badge.fury.io/rb/prismdb)
 [![test](https://github.com/sue445/prismdb-ruby/workflows/test/badge.svg?branch=master)](https://github.com/sue445/prismdb-ruby/actions?query=workflow%3Atest)
 [![Coverage Status](https://coveralls.io/repos/github/sue445/prismdb-ruby/badge.svg?branch=master)](https://coveralls.io/github/sue445/prismdb-ruby?branch=master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/091d941f30ffc69fbd4b/maintainability)](https://codeclimate.com/github/sue445/prismdb-ruby/maintainability)
