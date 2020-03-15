@@ -74,7 +74,7 @@ pripara = client.find_series("pripara")
 
 All methods are followings
 
-https://www.rubydoc.info/gems/prismdb
+https://www.rubydoc.info/gems/prismdb/Prismdb/Client
 
 ## Development
 
