@@ -1,8 +1,8 @@
 RSpec.describe Prismdb::Client do
   let(:client) { Prismdb::Client.new }
 
-  describe "#characters" do
-    subject(:characters) { client.characters }
+  describe "#get_characters" do
+    subject(:characters) { client.get_characters }
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/character").
@@ -21,8 +21,8 @@ RSpec.describe Prismdb::Client do
     end
   end
 
-  describe "#character" do
-    subject(:character) { client.character(key) }
+  describe "#find_character" do
+    subject { client.find_character(key) }
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/character/manaka_laala").
@@ -37,8 +37,8 @@ RSpec.describe Prismdb::Client do
     its(:cv)        { should eq "茜屋日海夏" }
   end
 
-  describe "#episodes" do
-    subject(:episodes) { client.episodes }
+  describe "#get_episodes" do
+    subject(:episodes) { client.get_episodes }
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/episode").
@@ -56,8 +56,8 @@ RSpec.describe Prismdb::Client do
     end
   end
 
-  describe "#episode" do
-    subject(:character) { client.episode(key) }
+  describe "#find_episode" do
+    subject { client.find_episode(key) }
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/episode/pripara_1").
@@ -70,8 +70,8 @@ RSpec.describe Prismdb::Client do
     its("放送日(TXN)") { should eq "2014/7/5" }
   end
 
-  describe "#songs" do
-    subject(:songs) { client.songs }
+  describe "#get_songs" do
+    subject(:songs) { client.get_songs }
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/song").
@@ -88,8 +88,8 @@ RSpec.describe Prismdb::Client do
     end
   end
 
-  describe "#song" do
-    subject(:character) { client.song(key) }
+  describe "#find_song" do
+    subject { client.find_song(key) }
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/song/make_it").
@@ -102,8 +102,8 @@ RSpec.describe Prismdb::Client do
     its(:name_kana) { should eq "めいくいっと" }
   end
 
-  describe "#lives" do
-    subject(:lives) { client.lives }
+  describe "#get_lives" do
+    subject(:lives) { client.get_lives }
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/live").
@@ -120,8 +120,8 @@ RSpec.describe Prismdb::Client do
     end
   end
 
-  describe "#live" do
-    subject(:character) { client.live(key) }
+  describe "#find_live" do
+    subject { client.find_live(key) }
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/live/pripara_1_make_it").

@@ -1,7 +1,7 @@
 module Prismdb
   class Client
     # @return [Array<Prismdb::Response>]
-    def characters
+    def get_characters
       with_error_handling do
         connection.get("/api/character").body["results"]
       end
@@ -10,14 +10,14 @@ module Prismdb
     # @param key [String]
     #
     # @return [Prismdb::Response]
-    def character(key)
+    def find_character(key)
       with_error_handling do
         connection.get("/api/character/#{key}").body
       end
     end
 
     # @return [Array<Prismdb::Response>]
-    def episodes
+    def get_episodes
       with_error_handling do
         connection.get("/api/episode").body["results"]
       end
@@ -26,14 +26,14 @@ module Prismdb
     # @param key [String]
     #
     # @return [Prismdb::Response]
-    def episode(key)
+    def find_episode(key)
       with_error_handling do
         connection.get("/api/episode/#{key}").body
       end
     end
 
     # @return [Array<Prismdb::Response>]
-    def songs
+    def get_songs
       with_error_handling do
         connection.get("/api/song").body["results"]
       end
@@ -42,14 +42,14 @@ module Prismdb
     # @param key [String]
     #
     # @return [Prismdb::Response]
-    def song(key)
+    def find_song(key)
       with_error_handling do
         connection.get("/api/song/#{key}").body
       end
     end
 
     # @return [Array<Prismdb::Response>]
-    def lives
+    def get_lives
       with_error_handling do
         connection.get("/api/live").body["results"]
       end
@@ -58,7 +58,7 @@ module Prismdb
     # @param key [String]
     #
     # @return [Prismdb::Response]
-    def live(key)
+    def find_live(key)
       with_error_handling do
         connection.get("/api/live/#{key}").body
       end
