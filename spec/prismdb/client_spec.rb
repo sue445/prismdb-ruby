@@ -101,4 +101,36 @@ RSpec.describe Prismdb::Client do
     its(:name)      { should eq "Make it!" }
     its(:name_kana) { should eq "めいくいっと" }
   end
+
+  describe "#lives" do
+    subject(:lives) { client.lives }
+
+    before do
+      stub_request(:get, "https://prismdb.takanakahiko.me/api/live").
+        to_return(status: 200, body: fixture("live.json"))
+    end
+
+    its(:count) { should be > 0 }
+
+    describe "lives[0]" do
+      subject { lives[0] }
+
+      its(:_key)      { should eq "ad_1_you_may_dream" }
+      its(:performer) { should eq "aira_and_rizumu" }
+    end
+  end
+
+  describe "#live" do
+    subject(:character) { client.live(key) }
+
+    before do
+      stub_request(:get, "https://prismdb.takanakahiko.me/api/live/pripara_1_make_it").
+        to_return(status: 200, body: fixture("live-pripara_1_make_it.json"))
+    end
+
+    let(:key) { "pripara_1_make_it" }
+
+    its(:performer)     { should eq "laala_and_mirei" }
+    its(:songPerformed) { should eq "make_it" }
+  end
 end
