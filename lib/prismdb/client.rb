@@ -48,6 +48,13 @@ module Prismdb
       end
     end
 
+    # @return [Array<Prismdb::Response>]
+    def lives
+      with_error_handling do
+        connection.get("/api/live").body["results"]
+      end
+    end
+
     private
 
     # @return [Faraday::Connection]
