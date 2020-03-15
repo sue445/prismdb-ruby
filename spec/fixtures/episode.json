@@ -1,0 +1,3932 @@
+{
+  "results": [
+    {
+      "lives": [
+        "ad_1_you_may_dream"
+      ],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "スタア誕生！",
+      "放送日(TXN)": "11/4/9",
+      "演出": "京極尚彦",
+      "絵コンテ": "青葉譲",
+      "脚本": "赤尾でこ",
+      "話数": 1,
+      "_key": "ad_1"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "りずむ、心のジャンプ！",
+      "放送日(TXN)": "11/4/16",
+      "話数": 2,
+      "_key": "ad_2"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "これがコーチ！？ラビチとベアチ",
+      "放送日(TXN)": "11/4/23",
+      "話数": 3,
+      "_key": "ad_3"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "イースターは胸キュン体験",
+      "放送日(TXN)": "11/4/30",
+      "話数": 4,
+      "_key": "ad_4"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "パパにはナイショでファッションショー",
+      "放送日(TXN)": "11/5/7",
+      "話数": 5,
+      "_key": "ad_5"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "プリズムの輝きはいつもここに",
+      "放送日(TXN)": "11/5/14",
+      "話数": 6,
+      "_key": "ad_6"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "絶交！？あいらとりずむの大ゲンカ",
+      "放送日(TXN)": "11/5/21",
+      "話数": 7,
+      "_key": "ad_7"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "りずむピンチ！お勉強大作戦",
+      "放送日(TXN)": "11/5/28",
+      "話数": 8,
+      "_key": "ad_8"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "学園祭と秘密の約束",
+      "放送日(TXN)": "11/6/4",
+      "話数": 9,
+      "_key": "ad_9"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "雨のちラブリーレインボー",
+      "放送日(TXN)": "11/6/11",
+      "話数": 10,
+      "_key": "ad_10"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "開幕！ティアラカップ",
+      "放送日(TXN)": "11/6/18",
+      "話数": 11,
+      "_key": "ad_11"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "勝利の栄冠は誰の手に！？",
+      "放送日(TXN)": "11/6/25",
+      "話数": 12,
+      "_key": "ad_12"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "アンディの涙",
+      "放送日(TXN)": "11/7/2",
+      "話数": 13,
+      "_key": "ad_13"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "みおんスイッチオン",
+      "放送日(TXN)": "11/7/9",
+      "話数": 14,
+      "_key": "ad_14"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "めらめらハートがあつくなる！",
+      "放送日(TXN)": "11/7/16",
+      "話数": 15,
+      "_key": "ad_15"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "ネコチの試練",
+      "放送日(TXN)": "11/7/23",
+      "話数": 16,
+      "_key": "ad_16"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "ハピラキサマーはケーキで特訓！",
+      "放送日(TXN)": "11/7/30",
+      "話数": 17,
+      "_key": "ad_17"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "夜空に花咲く恋ゴコロ",
+      "放送日(TXN)": "11/8/6",
+      "話数": 18,
+      "_key": "ad_18"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "デュオ決定！運命のガールズ・デート",
+      "放送日(TXN)": "11/8/13",
+      "話数": 19,
+      "_key": "ad_19"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "ライバルは関西っ娘！セレナとかのん登場！！",
+      "放送日(TXN)": "11/8/20",
+      "話数": 20,
+      "_key": "ad_20"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "嵐のサマークイーンカップ",
+      "放送日(TXN)": "11/8/27",
+      "話数": 21,
+      "_key": "ad_21"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "スケート座の祝福を君に！",
+      "放送日(TXN)": "11/9/3",
+      "話数": 22,
+      "_key": "ad_22"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "MARsドキドキ芸能デビュー",
+      "放送日(TXN)": "11/9/10",
+      "話数": 23,
+      "_key": "ad_23"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "修学旅行でお笑い対決",
+      "放送日(TXN)": "11/9/17",
+      "話数": 24,
+      "_key": "ad_24"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "友情の誓い！オーロラの翼",
+      "放送日(TXN)": "11/9/24",
+      "話数": 25,
+      "_key": "ad_25"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "こねてまとめる！勝負のプリティーレシピ",
+      "放送日(TXN)": "11/10/1",
+      "話数": 26,
+      "_key": "ad_26"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "南国ビーチのドルフィンビーナス",
+      "放送日(TXN)": "11/10/8",
+      "話数": 27,
+      "_key": "ad_27"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "頑固オヤジにはちみつキッス",
+      "放送日(TXN)": "11/10/15",
+      "話数": 28,
+      "_key": "ad_28"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "トリオでジャンプ！Hip Hop Win！",
+      "放送日(TXN)": "11/10/22",
+      "話数": 29,
+      "_key": "ad_29"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "ドキドキハロウィンはときめきじゃナイト☆",
+      "放送日(TXN)": "11/10/29",
+      "話数": 30,
+      "_key": "ad_30"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "あいらとふれあ、コラボっちゃお♡",
+      "放送日(TXN)": "11/11/5",
+      "話数": 31,
+      "_key": "ad_31"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "爆笑！せれのん浅草漫才修行",
+      "放送日(TXN)": "11/11/12",
+      "話数": 32,
+      "_key": "ad_32"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "あいら in ワンダーガール",
+      "放送日(TXN)": "11/11/19",
+      "話数": 33,
+      "_key": "ad_33"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "これって恋！？芸能界ラブバトル",
+      "放送日(TXN)": "11/11/26",
+      "話数": 34,
+      "_key": "ad_34"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "MARsドリームライブ！",
+      "放送日(TXN)": "11/12/3",
+      "話数": 35,
+      "_key": "ad_35"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "かなめは天使？それとも悪魔？",
+      "放送日(TXN)": "11/12/10",
+      "話数": 36,
+      "_key": "ad_36"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "激闘！クリスタルハイヒールカップ",
+      "放送日(TXN)": "11/12/17",
+      "話数": 37,
+      "_key": "ad_37"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "ミラクル・スノーの降る夜に",
+      "放送日(TXN)": "11/12/24",
+      "話数": 38,
+      "_key": "ad_38"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "新春特番・プリズムショーの魅力に迫る！",
+      "放送日(TXN)": "12/1/7",
+      "話数": 39,
+      "_key": "ad_39"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "それぞれの決意",
+      "放送日(TXN)": "12/1/14",
+      "話数": 40,
+      "_key": "ad_40"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "ピュアプレミアムウェディングの願い",
+      "放送日(TXN)": "12/1/21",
+      "話数": 41,
+      "_key": "ad_41"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "りずむとそなた、運命の再開",
+      "放送日(TXN)": "12/1/28",
+      "話数": 42,
+      "_key": "ad_42"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "友情のピュアホワイトウェディング",
+      "放送日(TXN)": "12/2/4",
+      "話数": 43,
+      "_key": "ad_43"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "スイート＆ビターバレンタイン",
+      "放送日(TXN)": "12/2/11",
+      "話数": 44,
+      "_key": "ad_44"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "光訪ねてブエノスアイレス",
+      "放送日(TXN)": "12/2/18",
+      "話数": 45,
+      "_key": "ad_45"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "対決！あいらvsりずむ",
+      "放送日(TXN)": "12/2/25",
+      "話数": 46,
+      "_key": "ad_46"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "ファイナリストをかけて",
+      "放送日(TXN)": "12/3/3",
+      "話数": 47,
+      "_key": "ad_47"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "そなたの冬",
+      "放送日(TXN)": "12/3/10",
+      "話数": 48,
+      "_key": "ad_48"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "舞い上がれ、オーロラの翼",
+      "放送日(TXN)": "12/3/17",
+      "話数": 49,
+      "_key": "ad_49"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "新プリズムクイーン誕生！",
+      "放送日(TXN)": "12/3/24",
+      "話数": 50,
+      "_key": "ad_50"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ad",
+      "サブタイトル": "Dream goes on...",
+      "放送日(TXN)": "12/3/31",
+      "話数": 51,
+      "_key": "ad_51"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "ゆめかわアイドル始めちゃいました！？",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "2017年4月4日",
+      "演出": "佐藤まさふみ",
+      "絵コンテ": "誌村宏明",
+      "脚本": "加藤還一",
+      "話数": 1,
+      "_key": "ipp_1"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "ここ掘れ、アイドル",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "4月11日",
+      "演出": "板庇迪",
+      "絵コンテ": "山本三輪子藤澤俊幸",
+      "脚本": "ふでやすかずゆき",
+      "話数": 2,
+      "_key": "ipp_2"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "ゆめかわ！メイキングドラマ！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "4月18日",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "金杉弘子",
+      "話数": 3,
+      "_key": "ipp_3"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "まいどぷり！みれぃやで！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "4月25日",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "川口敬一郎",
+      "脚本": "大場小ゆり",
+      "話数": 4,
+      "_key": "ipp_4"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "プニコンのマネージャー修行クマ！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "5月2日",
+      "演出": "江島泰男",
+      "絵コンテ": "江島泰男",
+      "脚本": "中村能子",
+      "話数": 5,
+      "_key": "ipp_5"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "ユメユメ！？男プリ潜入！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "5月9日",
+      "演出": "小林浩輔",
+      "絵コンテ": "葛谷直行",
+      "脚本": "加藤還一",
+      "話数": 6,
+      "_key": "ipp_6"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "そふぃがやってクール！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "5月16日",
+      "演出": "徐恵眞",
+      "絵コンテ": "柊陽菜",
+      "脚本": "田辺茂範",
+      "話数": 7,
+      "_key": "ipp_7"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "ライスをねらえ！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "5月23日",
+      "演出": "板庇迪",
+      "絵コンテ": "藤澤俊幸",
+      "脚本": "ふでやすかずゆき",
+      "話数": 8,
+      "_key": "ipp_8"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "おしゃれスタジオ始めたっての",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "5月30日",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "葛谷直行",
+      "脚本": "福田裕子",
+      "話数": 9,
+      "_key": "ipp_9"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "助っ人アイドル始めたっす！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "6月6日",
+      "演出": "小林浩輔",
+      "絵コンテ": "小林浩輔",
+      "脚本": "加藤還一",
+      "話数": 10,
+      "_key": "ipp_10"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "投げろ！アイドルタイムグランプリ",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "6月13日",
+      "演出": "室谷靖",
+      "絵コンテ": "柊陽菜",
+      "脚本": "金杉弘子",
+      "話数": 11,
+      "_key": "ipp_11"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "打て！アイドルタイムグランプリ",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "6月20日",
+      "演出": "板庇迪",
+      "絵コンテ": "金崎貴臣山本三輪子",
+      "脚本": "大場小ゆり",
+      "話数": 12,
+      "_key": "ipp_12"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "レッツゴー！パラ宿",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "6月27日",
+      "演出": "渡辺健一郎",
+      "絵コンテ": "渡辺健一郎",
+      "脚本": "中村能子",
+      "話数": 13,
+      "_key": "ipp_13"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "ガァルマゲドンがきた！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "7月4日",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "森脇真琴",
+      "脚本": "ふでやすかずゆき",
+      "話数": 14,
+      "_key": "ipp_14"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "ミーチルみちる",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "7月11日",
+      "演出": "小林浩輔",
+      "絵コンテ": "小林浩輔",
+      "脚本": "田辺茂範",
+      "話数": 15,
+      "_key": "ipp_15"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "あの地獄にさよならを",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "7月18日",
+      "演出": "国崎友也",
+      "絵コンテ": "国崎友也",
+      "脚本": "ふでやすかずゆき",
+      "話数": 16,
+      "_key": "ipp_16"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "アイドル借り物バトルっす！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "7月25日",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "大久保政雄",
+      "脚本": "福田裕子",
+      "話数": 17,
+      "_key": "ipp_17"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "グランプリ！勝利へのエスコート",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "戸田さやか",
+      "放送日(TXN)": "8月1日",
+      "演出": "小林浩輔",
+      "絵コンテ": "藤澤俊幸",
+      "脚本": "加藤還一",
+      "話数": 18,
+      "_key": "ipp_18"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "旅立てアイドル！レッツ・イゴー！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "8月8日",
+      "演出": "板庇迪",
+      "絵コンテ": "柊陽菜",
+      "脚本": "大場小ゆり",
+      "話数": 19,
+      "_key": "ipp_19"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "ハッピー米（まい）バースデイ",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "8月15日",
+      "演出": "板庇迪",
+      "絵コンテ": "葛谷直行",
+      "脚本": "中村能子",
+      "話数": 20,
+      "_key": "ipp_20"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "ドキドキ！みちなる麺パラ",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "8月22日",
+      "演出": "江島泰男",
+      "絵コンテ": "森脇真琴",
+      "脚本": "金杉弘子",
+      "話数": 21,
+      "_key": "ipp_21"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "プール de（ド） プランス 大レース！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "諏訪壮大",
+      "放送日(TXN)": "8月29日",
+      "演出": "小林浩輔",
+      "絵コンテ": "小林浩輔",
+      "脚本": "福田裕子",
+      "話数": 22,
+      "_key": "ipp_22"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "地獄アイドル始めちゃいました！？",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "9月5日",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "山本三輪子金崎貴臣",
+      "脚本": "ふでやすかずゆき",
+      "話数": 23,
+      "_key": "ipp_23"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "勝負っす！シオン先輩！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "9月12日",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "加藤還一",
+      "話数": 24,
+      "_key": "ipp_24"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "ユメユメ！タイムスリップ",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "9月19日",
+      "演出": "小林浩輔",
+      "絵コンテ": "森脇真琴",
+      "脚本": "田辺茂範",
+      "話数": 25,
+      "_key": "ipp_25"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "がんばれみちる！！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "9月26日",
+      "演出": "江島泰男",
+      "絵コンテ": "大久保政雄",
+      "脚本": "ふでやすかずゆき",
+      "話数": 26,
+      "_key": "ipp_26"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "華園しゅうかでございます",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "10月3日",
+      "演出": "江副仁美",
+      "絵コンテ": "葛谷直行",
+      "脚本": "金杉弘子",
+      "話数": 27,
+      "_key": "ipp_27"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "いっちばーんがやってきた！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "10月10日",
+      "演出": "小林浩輔",
+      "絵コンテ": "小林浩輔",
+      "脚本": "大場小ゆり",
+      "話数": 28,
+      "_key": "ipp_28"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "グランプリ大決戦！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "10月17日",
+      "演出": "渡辺健一郎",
+      "絵コンテ": "渡辺健一郎",
+      "脚本": "加藤還一",
+      "話数": 29,
+      "_key": "ipp_29"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "ガァララとパックが夢パックン！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "10月24日",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "藤澤俊幸",
+      "脚本": "土屋理敬",
+      "話数": 30,
+      "_key": "ipp_30"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "復活！ファララ・ア・ラーム",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "10月31日",
+      "演出": "小林浩輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "田辺茂範",
+      "話数": 31,
+      "_key": "ipp_31"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "WITHとプリ×プリフェスティバル！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "11月7日",
+      "演出": "江島泰男",
+      "絵コンテ": "江島泰男",
+      "脚本": "加藤還一",
+      "話数": 32,
+      "_key": "ipp_32"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "ガァララ塔のひみつっす",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "11月14日",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "葛谷直行",
+      "脚本": "ふでやすかずゆき",
+      "話数": 33,
+      "_key": "ipp_33"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "ガァララの森",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "11月21日",
+      "演出": "野木森達哉",
+      "絵コンテ": "誌村宏明",
+      "脚本": "大場小ゆり",
+      "話数": 34,
+      "_key": "ipp_34"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "未知とのミーチル",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "11月28日",
+      "演出": "江島泰男",
+      "絵コンテ": "山本三輪子金崎貴臣",
+      "脚本": "田辺茂範",
+      "話数": 35,
+      "_key": "ipp_35"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "ユメ目合宿大ピンチ！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "12月5日",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "藤澤俊幸",
+      "脚本": "金杉弘子",
+      "話数": 36,
+      "_key": "ipp_36"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "ホップ・ステップ・グランプリ！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "12月12日",
+      "演出": "小林浩輔",
+      "絵コンテ": "小林浩輔",
+      "脚本": "加藤還一",
+      "話数": 37,
+      "_key": "ipp_37"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "ユメリー・メガネマス★",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "12月19日",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "ふでやすかずゆき",
+      "話数": 38,
+      "_key": "ipp_38"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "年末！ババ大そうじでっすわ！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "12月26日",
+      "演出": "安藤良",
+      "絵コンテ": "大久保政雄",
+      "脚本": "田辺茂範",
+      "話数": 39,
+      "_key": "ipp_39"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "パラ宿プルトラクイズ！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "2018年1月9日",
+      "演出": "渡辺健一郎",
+      "絵コンテ": "渡辺健一郎",
+      "脚本": "金杉弘子",
+      "話数": 40,
+      "_key": "ipp_40"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "しゅうかとガァララ",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "1月16日",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "山本三輪子金崎貴臣",
+      "脚本": "大場小ゆり",
+      "話数": 41,
+      "_key": "ipp_41"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "ディア・マイ・トモダチ！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "1月23日",
+      "演出": "小林浩輔",
+      "絵コンテ": "藤澤俊幸",
+      "脚本": "加藤還一",
+      "話数": 42,
+      "_key": "ipp_42"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "燃えよにの",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "-",
+      "放送日(TXN)": "1月30日",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "ふでやすかずゆき",
+      "話数": 43,
+      "_key": "ipp_43"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "みちるさまとお呼びなさい",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "2月6日",
+      "演出": "室谷靖",
+      "絵コンテ": "誌村宏明",
+      "脚本": "田辺茂範",
+      "話数": 44,
+      "_key": "ipp_44"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "決戦！ゆいvsしゅうか",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "2月13日",
+      "演出": "江副仁美",
+      "絵コンテ": "藤澤俊幸",
+      "脚本": "大場小ゆり",
+      "話数": 45,
+      "_key": "ipp_45"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "時をこえてマイドリーム！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "2月20日",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "福田裕子",
+      "話数": 46,
+      "_key": "ipp_46"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "パックでパニック！大暴れ！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "2月27日",
+      "演出": "小林浩輔",
+      "絵コンテ": "山本三輪子金崎貴臣",
+      "脚本": "金杉弘子",
+      "話数": 47,
+      "_key": "ipp_47"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "らぁらに届け、カムバックライブ！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "3月6日",
+      "演出": "安藤良",
+      "絵コンテ": "誌村宏明",
+      "脚本": "加藤還一",
+      "話数": 48,
+      "_key": "ipp_48"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "誕生しちゃうぜ！神アイドル!?",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "3月13日",
+      "演出": "佐藤まさふみ",
+      "絵コンテ": "佐藤まさふみ森脇真琴",
+      "脚本": "ふでやすかずゆき",
+      "話数": 49,
+      "_key": "ipp_49"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "夢のツバサで飛べマイドリーム！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "柚山麻美",
+      "放送日(TXN)": "3月20日",
+      "演出": "森脇真琴",
+      "絵コンテ": "森脇真琴",
+      "脚本": "土屋理敬",
+      "話数": 50,
+      "_key": "ipp_50"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "ipp",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "み～んなあつまれ！アイドル始める時間だよ！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "3月27日",
+      "演出": "渡辺健一郎",
+      "絵コンテ": "渡辺健一郎",
+      "脚本": "福田裕子",
+      "話数": 51,
+      "_key": "ipp_51"
+    },
+    {
+      "lives": [
+        "prichan_1_ready_action"
+      ],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/13143",
+      "サブタイトル": "キラッとプリ☆チャンやってみた！",
+      "話数": 1,
+      "_key": "prichan_1"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/13486",
+      "サブタイトル": "フラワーショップでプリ☆チャンやってみた！",
+      "話数": 2,
+      "_key": "prichan_2"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/13708",
+      "サブタイトル": "アイドルソングつくってみた！",
+      "話数": 3,
+      "_key": "prichan_3"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/13709",
+      "サブタイトル": "スイーツをアピールしてみた！",
+      "話数": 4,
+      "_key": "prichan_4"
+    },
+    {
+      "lives": [
+        "prichan_5_one_two_sweets"
+      ],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/13710",
+      "サブタイトル": "ガッツでアツくなってみた！",
+      "話数": 5,
+      "_key": "prichan_5"
+    },
+    {
+      "lives": [
+        "prichan_6_suki_suki_sensor"
+      ],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/14089",
+      "サブタイトル": "エール、送ってみた！",
+      "話数": 6,
+      "_key": "prichan_6"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/14135",
+      "サブタイトル": "ねこ動画を撮ってみた！",
+      "話数": 7,
+      "_key": "prichan_7"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/14196",
+      "サブタイトル": "ヘア＆メイクでおしゃれしてみた！",
+      "話数": 8,
+      "_key": "prichan_8"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/14282",
+      "サブタイトル": "ワタクシ、チャレンジしてみましたわ！",
+      "話数": 9,
+      "_key": "prichan_9"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/14299",
+      "サブタイトル": "ライバルとデートしてみた！",
+      "話数": 10,
+      "_key": "prichan_10"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/14300",
+      "サブタイトル": "はじめてスペシャルやってみた！",
+      "話数": 11,
+      "_key": "prichan_11"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/14301",
+      "サブタイトル": "ハートを燃やしてみた！",
+      "話数": 12,
+      "_key": "prichan_12"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/14302",
+      "サブタイトル": "桃山みらいが、とんでみた！",
+      "話数": 13,
+      "_key": "prichan_13"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/14303",
+      "サブタイトル": "ファンだって盛り上がってみた！",
+      "話数": 14,
+      "_key": "prichan_14"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/14304",
+      "サブタイトル": "りんか、やってみた！",
+      "話数": 15,
+      "_key": "prichan_15"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/14305",
+      "サブタイトル": "心の迷いを抜けてみた！",
+      "話数": 16,
+      "_key": "prichan_16"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/14306",
+      "サブタイトル": "笑顔でさよならしてみた！",
+      "話数": 17,
+      "_key": "prichan_17"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/14307",
+      "サブタイトル": "サマーなスペシャルやってみた！",
+      "話数": 18,
+      "_key": "prichan_18"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/14308",
+      "サブタイトル": "夏だ！ビーチだ！行ってみた！",
+      "話数": 19,
+      "_key": "prichan_19"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/14309",
+      "サブタイトル": "ヤッホー！山のぼってみた！",
+      "話数": 20,
+      "_key": "prichan_20"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/15821",
+      "サブタイトル": "真夏のフェスでやってみた！",
+      "話数": 21,
+      "_key": "prichan_21"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/15931",
+      "サブタイトル": "わたくし、イルカと翔んでみましたわ！",
+      "話数": 22,
+      "_key": "prichan_22"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/15991",
+      "サブタイトル": "めるめると出会ってみた！",
+      "話数": 23,
+      "_key": "prichan_23"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/16039",
+      "サブタイトル": "星の願いをかなえてみた！",
+      "話数": 24,
+      "_key": "prichan_24"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/16109",
+      "サブタイトル": "めるが探偵やってみた！",
+      "話数": 25,
+      "_key": "prichan_25"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/16356",
+      "サブタイトル": "おかしなイタズラやってみた！",
+      "話数": 26,
+      "_key": "prichan_26"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/16509",
+      "サブタイトル": "笑顔で決めてみましたわ！",
+      "話数": 27,
+      "_key": "prichan_27"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/16654",
+      "サブタイトル": "セレブなパーティ行ってみた！",
+      "話数": 28,
+      "_key": "prichan_28"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/16741",
+      "サブタイトル": "キラキラ、さがしてみた！",
+      "話数": 29,
+      "_key": "prichan_29"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/16808",
+      "サブタイトル": "おジャマハロウィンやってみた！",
+      "話数": 30,
+      "_key": "prichan_30"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/16918",
+      "サブタイトル": "マンガの現場いってみた！",
+      "話数": 31,
+      "_key": "prichan_31"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/17081",
+      "サブタイトル": "気になるウワサ追ってみた！",
+      "話数": 32,
+      "_key": "prichan_32"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/17134",
+      "サブタイトル": "さらちゃんがモフモフしてみた！",
+      "話数": 33,
+      "_key": "prichan_33"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/17202",
+      "サブタイトル": "俺たち解散してみた！",
+      "話数": 34,
+      "_key": "prichan_34"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/17337",
+      "サブタイトル": "友情、時をこえてみた！",
+      "話数": 35,
+      "_key": "prichan_35"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/17338",
+      "サブタイトル": "100点めざしてみましたわ！",
+      "話数": 36,
+      "_key": "prichan_36"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/17364",
+      "サブタイトル": "ウィンターなスペシャルやってみた！",
+      "話数": 37,
+      "_key": "prichan_37"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/17433",
+      "サブタイトル": "あいらさんとやってみた！",
+      "話数": 38,
+      "_key": "prichan_38"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/17526",
+      "サブタイトル": "アンジュの島にいってみた！",
+      "話数": 39,
+      "_key": "prichan_39"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/17541",
+      "サブタイトル": "さららの家に泊ってみた！",
+      "話数": 40,
+      "_key": "prichan_40"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/17663",
+      "サブタイトル": "春太のデート応援してみた！",
+      "話数": 41,
+      "_key": "prichan_41"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/17733",
+      "サブタイトル": "りんか？がりんかやってみた！?",
+      "話数": 42,
+      "_key": "prichan_42"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/17814",
+      "サブタイトル": "チョコ作ってみた！",
+      "話数": 43,
+      "_key": "prichan_43"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/17927",
+      "サブタイトル": "ファッションショー手伝ってみた！",
+      "話数": 44,
+      "_key": "prichan_44"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/17952",
+      "サブタイトル": "アンジュさんのホンネ聞いてみた！",
+      "話数": 45,
+      "_key": "prichan_45"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/17975",
+      "サブタイトル": "みんなの想いを届けてみた！",
+      "話数": 46,
+      "_key": "prichan_46"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/18042",
+      "サブタイトル": "「わからない」からやってみた！",
+      "話数": 47,
+      "_key": "prichan_47"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/18121",
+      "サブタイトル": "決着　つけてみましたわ！",
+      "話数": 48,
+      "_key": "prichan_48"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/18188",
+      "サブタイトル": "さがして、さがして、さがしてみた！",
+      "話数": 49,
+      "_key": "prichan_49"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/18256",
+      "サブタイトル": "夢のプリ☆チャン、やってみた！",
+      "話数": 50,
+      "_key": "prichan_50"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/18319",
+      "サブタイトル": "キラッとお別れ、やってみた！",
+      "話数": 51,
+      "_key": "prichan_51"
+    },
+    {
+      "lives": [
+        "prichan_52_tokimeki_heart_jewel"
+      ],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/18716",
+      "サブタイトル": "ドキドキ！　わくわく！ ジュエルオーディション開幕だもん！",
+      "放送日(TXN)": "19/4/7",
+      "話数": 52,
+      "_key": "prichan_52"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/18717",
+      "サブタイトル": "まりあちゃんがやって来た！ かわいい向上委員会だもん！",
+      "放送日(TXN)": "19/4/14",
+      "話数": 53,
+      "_key": "prichan_53"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/18750",
+      "サブタイトル": "ジュエルチャンス？ みらいがチャレンジだもん！",
+      "放送日(TXN)": "19/4/21",
+      "話数": 54,
+      "_key": "prichan_54"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/18852",
+      "サブタイトル": "キラッとときめき！ これがジュエルコーデだもん！",
+      "放送日(TXN)": "19/4/28",
+      "話数": 55,
+      "_key": "prichan_55"
+    },
+    {
+      "lives": [
+        "prichan_56_shiawasei_kawaii_sanka"
+      ],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/18888",
+      "サブタイトル": "まりあが宣言！ かわいいは世界を救うんだもん！",
+      "放送日(TXN)": "19/5/5",
+      "話数": 56,
+      "_key": "prichan_56"
+    },
+    {
+      "lives": [
+        "prichan_57_shiawasei_kawaii_sanka"
+      ],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/18962",
+      "サブタイトル": "まりあちゃん！すずちゃん！ ２人で初めての番組だもん！",
+      "放送日(TXN)": "19/5/12",
+      "話数": 57,
+      "_key": "prichan_57"
+    },
+    {
+      "lives": [
+        "prichan_58_yumeiro_energy"
+      ],
+      "episodeOfSeries": "prichan",
+      "あにてれ": "https://ch.ani.tv/episodes/19057",
+      "サブタイトル": "めが姉ぇ大ピンチ！ りんかちゃん一日店長なんだもん！",
+      "放送日(TXN)": "19/5/19",
+      "話数": 58,
+      "_key": "prichan_58"
+    },
+    {
+      "lives": [
+        "pripara_1_make_it"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "アイドル始めちゃいました！",
+      "ストーリーボード": "Sung Won Yong",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2014/7/5",
+      "演出": "徳本善信",
+      "絵コンテ": "森脇真琴",
+      "脚本": "土屋理敬",
+      "話数": 1,
+      "_key": "pripara_1"
+    },
+    {
+      "lives": [
+        "pripara_2_make_it"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "約束やぶっちゃダメぷりっ",
+      "ストーリーボード": "Choi Hun Cheol",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2014/7/12",
+      "演出": "小林浩輔",
+      "絵コンテ": "森脇真琴",
+      "脚本": "土屋理敬",
+      "話数": 2,
+      "_key": "pripara_2"
+    },
+    {
+      "lives": [
+        "pripara_3_make_it",
+        "pripara_3_taiyo_no_flare_serbet"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "チーム解散？困るクマ〜！",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2014/7/19",
+      "演出": "関田修",
+      "絵コンテ": "柊陽菜",
+      "脚本": "福田裕子",
+      "話数": 3,
+      "_key": "pripara_3"
+    },
+    {
+      "lives": [
+        "pripara_4_make_it"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "かしこま！元気 For You",
+      "ストーリーボード": "Sung Won Yong",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2014/7/26",
+      "演出": "小林浩輔",
+      "絵コンテ": "玉川真人",
+      "脚本": "ふでやすかずゆき",
+      "話数": 4,
+      "_key": "pripara_4"
+    },
+    {
+      "lives": [
+        "pripara_5_make_it",
+        "pripara_5_taiyo_no_flare_serbet"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "あたし、そふぃさんと歌いたいワニ！",
+      "ストーリーボード": "Sung Won Yong",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2014/8/2",
+      "演出": "佐々木純人",
+      "絵コンテ": "沖田宮奈",
+      "脚本": "中村能子",
+      "話数": 5,
+      "_key": "pripara_5"
+    },
+    {
+      "lives": [
+        "pripara_6_marble_make_up_a_ha_ha"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "異議あり？、らぁらがウチにやってきたっぷり！",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2014/8/9",
+      "演出": "小林浩輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "土屋理敬",
+      "話数": 6,
+      "_key": "pripara_6"
+    },
+    {
+      "lives": [
+        "pripara_7_marble_make_up_a_ha_ha",
+        "pripara_7_taiyo_no_flare_serbet"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "レッドフラッシュを探して…",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "森友宏",
+      "放送日(TXN)": "2014/8/16",
+      "演出": "関田修",
+      "絵コンテ": "ワタナベシンイチ",
+      "脚本": "大場小ゆり",
+      "話数": 7,
+      "_key": "pripara_7"
+    },
+    {
+      "lives": [
+        "pripara_8_marble_make_up_a_ha_ha"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "ドキドキ！夏だ！水着だ！、プールでかしこまっ♪",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2014/8/23",
+      "演出": "小林浩輔",
+      "絵コンテ": "沖田宮奈",
+      "脚本": "福田裕子",
+      "話数": 8,
+      "_key": "pripara_8"
+    },
+    {
+      "lives": [
+        "pripara_9_make_it"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "ときめきアイドル大集合！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2014/8/30",
+      "演出": "佐々木純人",
+      "絵コンテ": "柊陽菜",
+      "脚本": "中村能子",
+      "話数": 9,
+      "_key": "pripara_9"
+    },
+    {
+      "lives": [
+        "pripara_10_marble_make_up_a_ha_ha"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "秋色ラブリーライブ",
+      "ストーリーボード": "Sung Won Yong",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2014/9/6",
+      "演出": "小林浩輔",
+      "絵コンテ": "ワタナベシンイチ",
+      "脚本": "ふでやすかずゆき",
+      "話数": 10,
+      "_key": "pripara_10"
+    },
+    {
+      "lives": [
+        "pripara_11_taiyo_no_flare_serbet"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "どうする？どうなる!?3人目!!!",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2014/9/13",
+      "演出": "安藤良",
+      "絵コンテ": "沖田宮奈",
+      "脚本": "大場小ゆり",
+      "話数": 11,
+      "_key": "pripara_11"
+    },
+    {
+      "lives": [
+        "pripara_12_pretty_prism_paradise"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "はばたけ、そふぃ！",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2014/9/20",
+      "演出": "小林浩輔",
+      "絵コンテ": "坂田純一",
+      "脚本": "福田裕子",
+      "話数": 12,
+      "_key": "pripara_12"
+    },
+    {
+      "lives": [
+        "pripara_13_pretty_prism_paradise"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "空見て笑って♡チーム名発表！",
+      "ストーリーボード": "Choi Hun Cheol",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2014/9/27",
+      "演出": "徳本善信",
+      "絵コンテ": "桜井弘明",
+      "脚本": "中村能子",
+      "話数": 13,
+      "_key": "pripara_13"
+    },
+    {
+      "lives": [
+        "pripara_14_no_d_and_d_code",
+        "pripara_14_pretty_prism_paradise"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "ライバル登場！イゴ、よろしく!!",
+      "ストーリーボード": "Sung Won Yong",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2014/10/4",
+      "演出": "小林浩輔",
+      "絵コンテ": "ワタナベシンイチ",
+      "脚本": "ふでやすかずゆき",
+      "話数": 14,
+      "_key": "pripara_14"
+    },
+    {
+      "lives": [
+        "pripara_15_no_d_and_d_code",
+        "pripara_15_pretty_prism_paradise"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "一触即発？シオンVSみれぃっぷりっ！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2014/10/11",
+      "演出": "川村ひろし",
+      "絵コンテ": "山本三輪子",
+      "脚本": "大場小ゆり",
+      "話数": 15,
+      "_key": "pripara_15"
+    },
+    {
+      "lives": [
+        "pripara_16_pretty_prism_paradise"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "特ダネ！らぁらのヒミツばれちゃった!?",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2014/10/18",
+      "演出": "小林浩輔",
+      "絵コンテ": "川口敬一郎",
+      "脚本": "福田裕子",
+      "話数": 16,
+      "_key": "pripara_16"
+    },
+    {
+      "lives": [
+        "pripara_17_pretty_prism_paradise"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "恐怖のハロウィン！ジャック・OH!蘭たん!?",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2014/10/25",
+      "演出": "佐々木純人",
+      "絵コンテ": "ワタナベシンイチ",
+      "脚本": "ふでやすかずゆき",
+      "話数": 17,
+      "_key": "pripara_17"
+    },
+    {
+      "lives": [
+        "pripara_18_no_d_and_d_code",
+        "pripara_18_pretty_prism_paradise"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "レオナ、全力ダッシュなの！",
+      "ストーリーボード": "Sung Won Yong",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2014/11/1",
+      "演出": "小林浩輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "中村能子",
+      "話数": 18,
+      "_key": "pripara_18"
+    },
+    {
+      "lives": [
+        "pripara_19_pretty_prism_paradise"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "みれぃとクマ、運命の出会いぷりクマ！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2014/11/8",
+      "演出": "安藤良",
+      "絵コンテ": "坂田純一",
+      "脚本": "大場小ゆり",
+      "話数": 19,
+      "_key": "pripara_19"
+    },
+    {
+      "lives": [
+        "pripara_20_no_d_and_d_code",
+        "pripara_20_pretty_prism_paradise"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "パスタVS忍者！",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2014/11/15",
+      "演出": "小林浩輔",
+      "絵コンテ": "山本三輪子",
+      "脚本": "土屋理敬",
+      "話数": 20,
+      "_key": "pripara_20"
+    },
+    {
+      "lives": [
+        "pripara_21_no_d_and_d_code",
+        "pripara_21_pretty_prism_paradise",
+        "pripara_21_taiyo_no_flare_serbet"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "解散!?そふぃ様親衛隊",
+      "ストーリーボード": "Choi Hun Cheol",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2014/11/22",
+      "演出": "徳本善信",
+      "絵コンテ": "沖田宮奈",
+      "脚本": "福田裕子",
+      "話数": 21,
+      "_key": "pripara_21"
+    },
+    {
+      "lives": [
+        "pripara_22_change_my_world",
+        "pripara_22_happy_pa_lucky"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "学園祭でライブクマ〜！",
+      "ストーリーボード": "Sung Won Yong",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2014/11/29",
+      "演出": "小林浩輔",
+      "絵コンテ": "ワタナベシンイチ",
+      "脚本": "ふでやすかずゆき",
+      "話数": 22,
+      "_key": "pripara_22"
+    },
+    {
+      "lives": [
+        "pripara_23_change_my_world"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "プリパラ最後の日でっすわ！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2014/12/6",
+      "演出": "徳本善信",
+      "絵コンテ": "川口敬一郎",
+      "脚本": "中村能子",
+      "話数": 23,
+      "_key": "pripara_23"
+    },
+    {
+      "lives": [
+        "pripara_24_happy_pa_lucky"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "さよなら、プリパラ",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2014/12/13",
+      "演出": "小林浩輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "大場小ゆり",
+      "話数": 24,
+      "_key": "pripara_24"
+    },
+    {
+      "lives": [
+        "pripara_25_realize"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "クリスマスプレゼントフォーユー！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2014/12/20",
+      "演出": "川村ひろし",
+      "絵コンテ": "坂田純一",
+      "脚本": "土屋理敬",
+      "話数": 25,
+      "_key": "pripara_25"
+    },
+    {
+      "lives": [
+        "pripara_26_realize",
+        "pripara_26_zero_week_old"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "いよいよあの子がデビューでちゅ",
+      "ストーリーボード": "Sung Won Yong",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2014/12/27",
+      "演出": "小林浩輔",
+      "絵コンテ": "山本三輪子",
+      "脚本": "福田裕子",
+      "話数": 26,
+      "_key": "pripara_26"
+    },
+    {
+      "lives": [
+        "pripara_27_happy_pa_lucky"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "あけおめでかしこま！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2015/1/10",
+      "演出": "安藤良",
+      "絵コンテ": "ワタナベシンイチ",
+      "脚本": "ふでやすかずゆき",
+      "話数": 27,
+      "_key": "pripara_27"
+    },
+    {
+      "lives": [
+        "pripara_28_change_my_world"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "プリパラ囲碁パンダでございます",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2015/1/17",
+      "演出": "小林浩輔",
+      "絵コンテ": "麦野アイス",
+      "脚本": "中村能子",
+      "話数": 28,
+      "_key": "pripara_28"
+    },
+    {
+      "lives": [
+        "pripara_29_happy_pa_lucky"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "EZ DO グロササイズ",
+      "ストーリーボード": "Choi Hun Cheol",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2015/1/24",
+      "演出": "徳本善信",
+      "絵コンテ": "政木伸一",
+      "脚本": "福田裕子",
+      "話数": 29,
+      "_key": "pripara_29"
+    },
+    {
+      "lives": [
+        "pripara_30_change_my_world",
+        "pripara_30_happy_pa_lucky",
+        "pripara_30_zero_week_old"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "ドキドキ！パラダイスコーデは誰のもの!?",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2015/1/31",
+      "演出": "小林浩輔",
+      "絵コンテ": "金崎貴臣",
+      "脚本": "土屋理敬",
+      "話数": 30,
+      "_key": "pripara_30"
+    },
+    {
+      "lives": [
+        "pripara_31_kimi_100_percent_jinse",
+        "pripara_31_zero_week_old"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "スマイル！そらみ♡スマイル",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2015/2/7",
+      "演出": "川村ひろし",
+      "絵コンテ": "山本三輪子",
+      "脚本": "大場小ゆり",
+      "話数": 31,
+      "_key": "pripara_31"
+    },
+    {
+      "lives": [
+        "pripara_32_happy_pa_lucky"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "みれぃ、ぷりやめるってよ",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2015/2/14",
+      "演出": "小林浩輔",
+      "絵コンテ": "ワタナベシンイチ",
+      "脚本": "ふでやすかずゆき",
+      "話数": 32,
+      "_key": "pripara_32"
+    },
+    {
+      "lives": [
+        "pripara_33_change_my_world",
+        "pripara_33_marble_make_up_a_ha_ha",
+        "pripara_33_no_d_and_d_code",
+        "pripara_33_pretty_prism_paradise",
+        "pripara_33_zero_week_old"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "らぁらのこと、おしえて",
+      "ストーリーボード": "Jeon Byung Cheol",
+      "作画監修": "五十内裕輔",
+      "放送日(TXN)": "2015/2/21",
+      "演出": "徳本善信",
+      "絵コンテ": "森脇真琴",
+      "脚本": "土屋理敬",
+      "話数": 33,
+      "_key": "pripara_33"
+    },
+    {
+      "lives": [
+        "pripara_34_zero_week_old"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "ファルルのトモダチ",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2015/2/28",
+      "演出": "小林浩輔",
+      "絵コンテ": "誌村宏明",
+      "脚本": "中村能子",
+      "話数": 34,
+      "_key": "pripara_34"
+    },
+    {
+      "lives": [
+        "pripara_35_love_friend_style",
+        "pripara_35_zero_week_old"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "最後のステージバトル！",
+      "ストーリーボード": "Jeon Byung Cheol",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2015/3/7",
+      "演出": "佐々木純人",
+      "絵コンテ": "ワタナベシンイチ",
+      "脚本": "福田裕子",
+      "話数": 35,
+      "_key": "pripara_35"
+    },
+    {
+      "lives": [
+        "pripara_36_love_friend_style"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "ファルル、目覚めるでちゅーっ!!",
+      "ストーリーボード": "Kim Jin Gu",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2015/3/14",
+      "演出": "小林浩輔",
+      "絵コンテ": "大久保政雄",
+      "脚本": "ふでやすかずゆき",
+      "話数": 36,
+      "_key": "pripara_36"
+    },
+    {
+      "lives": [
+        "pripara_37_make_it"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "奇跡よ起これ！ミラクルライブ",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2015/3/21",
+      "演出": "徳本善信",
+      "絵コンテ": "森脇真琴",
+      "脚本": "大場小ゆり",
+      "話数": 37,
+      "_key": "pripara_37"
+    },
+    {
+      "lives": [
+        "pripara_38_love_friend_style"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "み〜んなトモダチ、かしこま！",
+      "ストーリーボード": "Choi Hun Cheol",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2015/3/28",
+      "演出": "小林浩輔",
+      "絵コンテ": "山本三輪子",
+      "脚本": "中村能子",
+      "話数": 38,
+      "_key": "pripara_38"
+    },
+    {
+      "lives": [
+        "pripara_39_dream_parade"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "またまたアイドル始めちゃいました!?",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2015/4/4",
+      "演出": "川村ひろし",
+      "絵コンテ": "政木伸一",
+      "脚本": "土屋理敬",
+      "話数": 39,
+      "_key": "pripara_39"
+    },
+    {
+      "lives": [
+        "pripara_40_debi_en_reversible_ring"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "天使と悪魔ねこぉ〜ん",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2015/4/11",
+      "演出": "小林浩輔",
+      "絵コンテ": "森脇真琴",
+      "脚本": "ふでやすかずゆき",
+      "話数": 40,
+      "_key": "pripara_40"
+    },
+    {
+      "lives": [
+        "pripara_41_dream_parade"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "のろわれたソロライブぷり！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2015/4/18",
+      "演出": "佐々木純人",
+      "絵コンテ": "ワタナベシンイチ",
+      "脚本": "福田裕子",
+      "話数": 41,
+      "_key": "pripara_41"
+    },
+    {
+      "lives": [
+        "pripara_42_taiyo_no_flare_serbet_sakura_shower_ver"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "プラジルから来た男",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "森友宏樹",
+      "放送日(TXN)": "2015/4/26",
+      "演出": "小林浩輔",
+      "絵コンテ": "麦野アイス",
+      "脚本": "大場小ゆり",
+      "話数": 42,
+      "_key": "pripara_42"
+    },
+    {
+      "lives": [
+        "pripara_43_dream_parade"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "ドリームシアター一番乗り！クマ！",
+      "ストーリーボード": "Jeon Byung Cheol",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2015/5/2",
+      "演出": "橋口洋介",
+      "絵コンテ": "森脇真琴",
+      "脚本": "中村能子",
+      "話数": 43,
+      "_key": "pripara_43"
+    },
+    {
+      "lives": [
+        "pripara_44_no_d_and_d_code"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "イゴ、さらばウサ！？",
+      "ストーリーボード": "Jeon Byung Cheol",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2015/5/9",
+      "演出": "菱田正和",
+      "絵コンテ": "菱田正和",
+      "脚本": "土屋理敬",
+      "話数": 44,
+      "_key": "pripara_44"
+    },
+    {
+      "lives": [
+        "pripara_45_debi_en_reversible_ring"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "となりのクラスの悪魔なの",
+      "ストーリーボード": "Jeon Byung Cheol",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2015/5/16",
+      "演出": "小林浩輔",
+      "絵コンテ": "ワタナベシンイチ",
+      "脚本": "ふでやすかずゆき",
+      "話数": 45,
+      "_key": "pripara_45"
+    },
+    {
+      "lives": [
+        "pripara_46_debi_en_reversible_ring"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "でび＆えん保育園！ケロ？",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "鈴木理彩",
+      "放送日(TXN)": "2015/5/23",
+      "演出": "川村ひろし",
+      "絵コンテ": "政木伸一",
+      "脚本": "中村能子",
+      "話数": 46,
+      "_key": "pripara_46"
+    },
+    {
+      "lives": [
+        "pripara_47_dream_parade"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "あろまにはナイショなの♪",
+      "ストーリーボード": "Jeon Byung Cheol",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2015/5/30",
+      "演出": "小林浩輔",
+      "絵コンテ": "森脇真琴",
+      "脚本": "福田裕子",
+      "話数": 47,
+      "_key": "pripara_47"
+    },
+    {
+      "lives": [
+        "pripara_48_lucky_surprise_birthday"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "6月6日、絶交アイドル",
+      "ストーリーボード": "Jeon Byung Cheol",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2015/6/6",
+      "演出": "橋口洋介",
+      "絵コンテ": "佐藤まさふみ",
+      "脚本": "大場小ゆり",
+      "話数": 48,
+      "_key": "pripara_48"
+    },
+    {
+      "lives": [
+        "pripara_49_no_d_and_d_code"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "いもうとよ",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2015/6/13",
+      "演出": "小林浩輔",
+      "絵コンテ": "ワタナベシンイチ",
+      "脚本": "ふでやすかずゆき",
+      "話数": 49,
+      "_key": "pripara_49"
+    },
+    {
+      "lives": [
+        "pripara_50_dream_parade"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "パルプスの少女ふわり",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "柴田健児",
+      "放送日(TXN)": "2015/6/20",
+      "演出": "小林浩輔",
+      "脚本": "福田裕子",
+      "話数": 50,
+      "_key": "pripara_50"
+    },
+    {
+      "lives": [
+        "pripara_51_change_my_world",
+        "pripara_51_dream_parade"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "プリンス様と不幸せの青い鳥",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2015/6/27",
+      "演出": "川村ひろし",
+      "絵コンテ": "柊陽菜",
+      "脚本": "中村能子",
+      "話数": 51,
+      "_key": "pripara_51"
+    },
+    {
+      "lives": [
+        "pripara_52_konouta_tomareihi"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "ふわり舞う！初ライブトリ！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "柴田健児",
+      "放送日(TXN)": "2015/7/4",
+      "演出": "篠原啓輔",
+      "絵コンテ": "ワタナベシンイチ",
+      "脚本": "大場小ゆり",
+      "話数": 52,
+      "_key": "pripara_52"
+    },
+    {
+      "lives": [
+        "pripara_53_change_my_world",
+        "pripara_53_dream_parade"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "み〜んなプリパラ禁止命令",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2015/7/11",
+      "演出": "小林浩輔",
+      "絵コンテ": "佐藤まさふみ",
+      "脚本": "ふでやすかずゆき",
+      "話数": 53,
+      "_key": "pripara_53"
+    },
+    {
+      "lives": [
+        "pripara_54_debi_en_reversible_ring"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "あくまのミュージアムクマ！",
+      "ストーリーボード": "Choi Hun Cheol",
+      "作画監修": "柴田健児",
+      "放送日(TXN)": "2015/7/18",
+      "演出": "菱田正和",
+      "絵コンテ": "菱田正和",
+      "脚本": "江夏由結",
+      "話数": 54,
+      "_key": "pripara_54"
+    },
+    {
+      "lives": [
+        "pripara_55_konouta_tomareihi"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "プリンスとヤギとデートと私",
+      "ストーリーボード": "Jeon Byung Cheol",
+      "作画監修": "諏訪壮大",
+      "放送日(TXN)": "2015/7/25",
+      "演出": "小林浩輔",
+      "絵コンテ": "藤本義孝",
+      "脚本": "土屋理敬",
+      "話数": 55,
+      "_key": "pripara_55"
+    },
+    {
+      "lives": [
+        "pripara_56_tondemo_summer_adventure"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "走れ！サマドリグランプリ！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "柴田健児",
+      "放送日(TXN)": "2015/8/1",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "森脇真琴",
+      "脚本": "土屋理敬",
+      "話数": 56,
+      "_key": "pripara_56"
+    },
+    {
+      "lives": [
+        "pripara_57_tondemo_summer_adventure"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "ジーニアスって何パンダ？",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2015/8/8",
+      "演出": "小林浩輔",
+      "絵コンテ": "山本三輪子",
+      "脚本": "中村能子",
+      "話数": 57,
+      "_key": "pripara_57"
+    },
+    {
+      "lives": [
+        "pripara_58_love_week_old"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "かえってきたファルルでちゅ",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "柴田健児",
+      "放送日(TXN)": "2015/8/15",
+      "演出": "川村ひろし",
+      "絵コンテ": "ワタナベシンイチ",
+      "脚本": "福田裕子",
+      "話数": 58,
+      "_key": "pripara_58"
+    },
+    {
+      "lives": [
+        "pripara_59_dream_parade",
+        "pripara_59_konouta_tomareihi"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "はれときどきガァルル",
+      "ストーリーボード": "Jeon Byung Cheol",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2015/8/22",
+      "演出": "小林浩輔",
+      "絵コンテ": "麦野アイス",
+      "脚本": "金杉弘子",
+      "話数": 59,
+      "_key": "pripara_59"
+    },
+    {
+      "lives": [
+        "pripara_60_change_my_world"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "夏だ！プールでラブMAX！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "柴田健児",
+      "放送日(TXN)": "2015/8/29",
+      "演出": "伊藤史夫",
+      "絵コンテ": "政木伸一",
+      "脚本": "ふでやすかずゆき",
+      "話数": 60,
+      "_key": "pripara_60"
+    },
+    {
+      "lives": [
+        "pripara_61_dream_parade",
+        "pripara_61_happy_pa_lucky",
+        "pripara_61_love_friend_style",
+        "pripara_61_marble_make_up_a_ha_ha",
+        "pripara_61_pretty_prism_paradise",
+        "pripara_61_taiyo_no_flare_serbet"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "クールスキャンダル☆恐縮です",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "諏訪壮大",
+      "放送日(TXN)": "2015/9/5",
+      "演出": "小林浩輔",
+      "絵コンテ": "佐藤まさふみ",
+      "脚本": "大場小ゆり",
+      "話数": 61,
+      "_key": "pripara_61"
+    },
+    {
+      "lives": [
+        "pripara_62_zettai_seimei_final_show_jo"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "シオンVSひびき",
+      "ストーリーボード": "Choi Hun Cheol",
+      "作画監修": "柴田健児",
+      "放送日(TXN)": "2015/9/12",
+      "演出": "小林浩輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "江夏由結",
+      "話数": 62,
+      "_key": "pripara_62"
+    },
+    {
+      "lives": [
+        "pripara_63_make_it",
+        "pripara_63_realize"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Sung Min",
+      "サブタイトル": "トモチケは世界を救う",
+      "ストーリーボード": "Jeon Byung Cheol",
+      "作画監修": "柴田健児",
+      "放送日(TXN)": "2015/9/19",
+      "演出": "菱田正和",
+      "絵コンテ": "菱田正和",
+      "脚本": "福田裕子",
+      "話数": 63,
+      "_key": "pripara_63"
+    },
+    {
+      "lives": [
+        "pripara_64_panic_labyrinth"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "ハムとあじみ",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "柴田健児",
+      "放送日(TXN)": "2015/9/26",
+      "演出": "小林浩輔",
+      "絵コンテ": "こでらかつゆき",
+      "脚本": "ふでやすかずゆき",
+      "話数": 64,
+      "_key": "pripara_64"
+    },
+    {
+      "lives": [
+        "pripara_65_panic_labyrinth"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "ダ・ヴィンチ・コーデ",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "柴田健児",
+      "放送日(TXN)": "2015/10/5",
+      "演出": "橋口洋介",
+      "絵コンテ": "坂田純一",
+      "脚本": "金杉弘子",
+      "話数": 65,
+      "_key": "pripara_65"
+    },
+    {
+      "lives": [
+        "pripara_66_omu_omelet"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "秋のテラコズミックグランプリ！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "柴田健児",
+      "放送日(TXN)": "2015/10/12",
+      "演出": "小林浩輔",
+      "絵コンテ": "政木伸一",
+      "脚本": "中村能子",
+      "話数": 66,
+      "_key": "pripara_66"
+    },
+    {
+      "lives": [
+        "pripara_67_omu_omelet"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "めがジーニアスって何パンダ？",
+      "ストーリーボード": "Jeon Byung Cheol",
+      "作画監修": "川島尚",
+      "放送日(TXN)": "2015/10/19",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "麦野アイス",
+      "脚本": "土屋理敬",
+      "話数": 67,
+      "_key": "pripara_67"
+    },
+    {
+      "lives": [
+        "pripara_68_marble_make_up_a_ha_ha",
+        "pripara_68_pretty_prism_paradise"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "ほら〜！ハッピーハロウィンにゃ",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "柴田健児",
+      "放送日(TXN)": "2015/10/26",
+      "演出": "小林浩輔",
+      "絵コンテ": "こでらかつゆき",
+      "脚本": "大場小ゆり",
+      "話数": 68,
+      "_key": "pripara_68"
+    },
+    {
+      "lives": [
+        "pripara_69_dream_parade",
+        "pripara_69_papipupe_police"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "あぶないプリパラポリス最前線にほえろ",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "2015/11/2",
+      "演出": "渡辺健一郎",
+      "絵コンテ": "渡辺健一郎",
+      "脚本": "ふでやすかずゆき",
+      "話数": 69,
+      "_key": "pripara_69"
+    },
+    {
+      "lives": [
+        "pripara_70_love_week_old"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "プリンセス・ファルル",
+      "ストーリーボード": "Choi Hun Cheol",
+      "作画監修": "柴田健児",
+      "放送日(TXN)": "2015/11/9",
+      "演出": "小林浩輔",
+      "絵コンテ": "佐藤まさふみ",
+      "脚本": "江夏由結",
+      "話数": 70,
+      "_key": "pripara_70"
+    },
+    {
+      "lives": [
+        "pripara_71_lucky_surprise_birthday"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "誕生日の約束、かしこまっ！",
+      "ストーリーボード": "Jeon Byung Cheol",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "2015/11/16",
+      "演出": "榎本守",
+      "絵コンテ": "柊陽菜",
+      "脚本": "金杉弘子",
+      "話数": 71,
+      "_key": "pripara_71"
+    },
+    {
+      "lives": [
+        "pripara_72_panic_labyrinth",
+        "pripara_72_papipupe_police"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "かしこまミステリー 、プリパラ連続ダ・ヴィンチ事件",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "柴田健児",
+      "放送日(TXN)": "2015/11/23",
+      "演出": "小林浩輔",
+      "絵コンテ": "坂田純一",
+      "脚本": "福田裕子",
+      "話数": 72,
+      "_key": "pripara_72"
+    },
+    {
+      "lives": [
+        "pripara_73_jun_amore_ai"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "彼女がデビューする日",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2015/11/30",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "森脇真琴",
+      "脚本": "中村能子",
+      "話数": 73,
+      "_key": "pripara_73"
+    },
+    {
+      "lives": [
+        "pripara_74_jun_amore_ai"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "紫京院ひびきの華麗なる日常",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2015/12/7",
+      "演出": "小林浩輔",
+      "絵コンテ": "誌村宏明",
+      "脚本": "土屋理敬",
+      "話数": 74,
+      "_key": "pripara_74"
+    },
+    {
+      "lives": [
+        "pripara_75_love_week_old"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "イゴーイング・マイウェイ",
+      "ストーリーボード": "Jeon Byung Cheol",
+      "作画監修": "柴田健児",
+      "放送日(TXN)": "2015/12/14",
+      "演出": "野木森達哉",
+      "絵コンテ": "こでらかつゆき",
+      "脚本": "江夏由結",
+      "話数": 75,
+      "_key": "pripara_75"
+    },
+    {
+      "lives": [
+        "pripara_76_debi_en_reversible_ring",
+        "pripara_76_realize"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "ハッピーバイバイXマスなの",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2015/12/21",
+      "演出": "小林浩輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "大場小ゆり",
+      "話数": 76,
+      "_key": "pripara_76"
+    },
+    {
+      "lives": [
+        "pripara_77_what_a_wonder_pri_world"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "対決！ウィンターグランプリ",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/1/4",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "みさわしん",
+      "脚本": "福田裕子",
+      "話数": 77,
+      "_key": "pripara_77"
+    },
+    {
+      "lives": [
+        "pripara_78_what_a_wonder_pri_world"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "レッツ・ゴー！セレパラ!!",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/1/11",
+      "演出": "小林浩輔",
+      "絵コンテ": "坂田純一",
+      "脚本": "金杉弘子",
+      "話数": 78,
+      "_key": "pripara_78"
+    },
+    {
+      "lives": [
+        "pripara_79_taiyo_no_flare_serbet",
+        "pripara_79_virtual_idol"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "アイドル終了ぷり",
+      "ストーリーボード": "Jeon Byung Cheol",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/1/18",
+      "演出": "小林浩輔",
+      "絵コンテ": "政木伸一",
+      "脚本": "土屋理敬",
+      "話数": 79,
+      "_key": "pripara_79"
+    },
+    {
+      "lives": [
+        "pripara_80_love_week_old"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "ポップ・ステップ・ガァルル",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "-",
+      "放送日(TXN)": "2016/1/25",
+      "演出": "小林浩輔",
+      "絵コンテ": "みさわしん",
+      "脚本": "大場小ゆり",
+      "話数": 80,
+      "_key": "pripara_80"
+    },
+    {
+      "lives": [
+        "pripara_81_happy_pa_lucky",
+        "pripara_81_kimi_100_percent_jinse",
+        "pripara_81_love_week_old"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "地下アイドル始めました",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/2/1",
+      "演出": "渡辺健一郎",
+      "絵コンテ": "渡辺健一郎",
+      "脚本": "江夏由結",
+      "話数": 81,
+      "_key": "pripara_81"
+    },
+    {
+      "lives": [
+        "pripara_82_debi_en_reversible_ring",
+        "pripara_82_dream_parade"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "ガァルマゲドンのデビタインデー",
+      "ストーリーボード": "Choi Hun Cheol",
+      "作画監修": "-",
+      "放送日(TXN)": "2016/2/8",
+      "演出": "小林浩輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "ふでやすかずゆき",
+      "話数": 82,
+      "_key": "pripara_82"
+    },
+    {
+      "lives": [
+        "pripara_83_love_week_old"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "ペルサイユのくるくるちゃんダヴィンチ！",
+      "ストーリーボード": "Jeon Byung Cheol",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/2/15",
+      "演出": "野木森達哉",
+      "絵コンテ": "稲垣隆行",
+      "脚本": "金杉弘子",
+      "話数": 83,
+      "_key": "pripara_83"
+    },
+    {
+      "lives": [
+        "pripara_84_pritto_perfect"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "ポップ・ステップ・ぷりぷりぷり！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/2/22",
+      "演出": "小林浩輔",
+      "絵コンテ": "坂田純一",
+      "脚本": "福田裕子",
+      "話数": 84,
+      "_key": "pripara_84"
+    },
+    {
+      "lives": [
+        "pripara_85_twin_mirror_compact"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "逆襲のセレブリティ4",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/2/29",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "大場小ゆり",
+      "話数": 85,
+      "_key": "pripara_85"
+    },
+    {
+      "lives": [
+        "pripara_86_around_the_pripara_land"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "つかめ、春のグランプリ！",
+      "ストーリーボード": "Choi Hun Cheol",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/3/7",
+      "演出": "小林浩輔",
+      "絵コンテ": "菱田正和",
+      "脚本": "江夏由結",
+      "話数": 86,
+      "_key": "pripara_86"
+    },
+    {
+      "lives": [
+        "pripara_87_love_friend_style"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "語尾の果て",
+      "ストーリーボード": "Jeon Byung Cheol",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/3/14",
+      "演出": "渡辺健一郎",
+      "絵コンテ": "渡辺健一郎",
+      "脚本": "ふでやすかすゆき",
+      "話数": 87,
+      "_key": "pripara_87"
+    },
+    {
+      "lives": [
+        "pripara_88_around_the_pripara_land",
+        "pripara_88_dream_parade",
+        "pripara_88_omu_omelet",
+        "pripara_88_tondemo_summer_adventure",
+        "pripara_88_what_a_wonder_pri_world"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "キセキの鐘をならせ！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/3/21",
+      "演出": "小林浩輔",
+      "絵コンテ": "坂田純一",
+      "脚本": "大島のぞむ",
+      "話数": 88,
+      "_key": "pripara_88"
+    },
+    {
+      "lives": [
+        "pripara_89_konouta_tomareihi",
+        "pripara_89_triangle_star"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "み〜んなトモダチ！み〜んなアイドル！",
+      "ストーリーボード": "An Jai Ho",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/3/28",
+      "演出": "小林浩輔",
+      "絵コンテ": "金崎貴臣",
+      "脚本": "金杉弘子",
+      "話数": 89,
+      "_key": "pripara_89"
+    },
+    {
+      "lives": [
+        "pripara_90_debi_en_reversible_ring",
+        "pripara_90_triangle_star",
+        "pripara_90_twin_mirror_compact",
+        "pripara_90_zettai_seimei_final_show_jo"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Choi Hun Cheol",
+      "サブタイトル": "神アイドル始めちゃいました!?",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/4/5",
+      "演出": "小林浩輔",
+      "絵コンテ": "誌村宏明",
+      "脚本": "土屋理敬",
+      "話数": 90,
+      "_key": "pripara_90"
+    },
+    {
+      "lives": [
+        "pripara_91_triangle_star"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "ママアイドル始めちゃいました!?",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "袖山麻美",
+      "放送日(TXN)": "2016/4/12",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "稲垣隆行",
+      "脚本": "土屋理敬",
+      "話数": 91,
+      "_key": "pripara_91"
+    },
+    {
+      "lives": [
+        "pripara_92_charisma_to_girl_yeah"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "ちょう絶クール蝶（バタフライ）",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "柚山麻美",
+      "放送日(TXN)": "2016/4/19",
+      "演出": "小林浩輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "ふでやすかずゆき",
+      "話数": 92,
+      "_key": "pripara_92"
+    },
+    {
+      "lives": [
+        "pripara_93_charisma_to_girl_yeah",
+        "pripara_93_triangle_star"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "ジュルルの大冒険",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/4/26",
+      "演出": "野木森達哉",
+      "絵コンテ": "金崎貴臣",
+      "脚本": "大場小ゆり",
+      "話数": 93,
+      "_key": "pripara_93"
+    },
+    {
+      "lives": [
+        "pripara_94_charisma_to_girl_yeah"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Choi Hun Cheol",
+      "サブタイトル": "カモンカモン・かのん！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "柚山麻美",
+      "放送日(TXN)": "2016/5/3",
+      "演出": "小林浩輔",
+      "絵コンテ": "坂田純一",
+      "脚本": "江夏由結",
+      "話数": 94,
+      "_key": "pripara_94"
+    },
+    {
+      "lives": [
+        "pripara_95_triangle_star"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "かんぺきママみれぃ！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "柚山麻美",
+      "放送日(TXN)": "2016/5/10",
+      "演出": "渡辺健一郎",
+      "絵コンテ": "渡辺健一郎",
+      "脚本": "福田裕子",
+      "話数": 95,
+      "_key": "pripara_95"
+    },
+    {
+      "lives": [
+        "pripara_96_debi_en_reversible_ring"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "アロマットカードでモーたいへん！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "柚山麻美",
+      "放送日(TXN)": "2016/5/17",
+      "演出": "小林浩輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "中村能子",
+      "話数": 96,
+      "_key": "pripara_96"
+    },
+    {
+      "lives": [
+        "pripara_97_taiyo_no_flare_serbet_sakura_shower_ver"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "スーパーミラクルうめぇピーチ",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "柚山麻美",
+      "放送日(TXN)": "2016/5/24",
+      "演出": "黒瀬大輔",
+      "絵コンテ": "佐藤まさふみ",
+      "脚本": "金杉弘子",
+      "話数": 97,
+      "_key": "pripara_97"
+    },
+    {
+      "lives": [
+        "pripara_98_charisma_to_girl_yeah"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "ひとり三役は大変なのん！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "柚山麻美",
+      "放送日(TXN)": "2016/5/31",
+      "演出": "小林浩輔",
+      "絵コンテ": "誌村宏明",
+      "脚本": "ふでやすかずゆき",
+      "話数": 98,
+      "_key": "pripara_98"
+    },
+    {
+      "lives": [
+        "pripara_99_run_for_jumping"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "青春ジャンピンスナッピン！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "柚山麻美",
+      "放送日(TXN)": "2016/6/7",
+      "演出": "野木森達哉",
+      "絵コンテ": "米田光宏",
+      "脚本": "大場小ゆり",
+      "話数": 99,
+      "_key": "pripara_99"
+    },
+    {
+      "lives": [
+        "pripara_100_run_for_jumping"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "テンション100MAXだよ！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "柚山麻美",
+      "放送日(TXN)": "2016/6/14",
+      "演出": "小林浩輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "中村能子",
+      "話数": 100,
+      "_key": "pripara_100"
+    },
+    {
+      "lives": [
+        "pripara_101_charisma_to_girl_yeah",
+        "pripara_101_run_for_jumping",
+        "pripara_101_triangle_star"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "キタ！神アイドルグランプリ！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "柚山麻美",
+      "放送日(TXN)": "2016/6/21",
+      "演出": "小林浩輔",
+      "絵コンテ": "金崎貴臣",
+      "脚本": "江夏由結",
+      "話数": 101,
+      "_key": "pripara_101"
+    },
+    {
+      "lives": [
+        "pripara_102_rainbow_melody",
+        "pripara_102_run_for_jumping"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "変幻自在！ジュエルチェンジぽよ♡",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/6/28",
+      "演出": "京極尚彦",
+      "絵コンテ": "京極尚彦",
+      "脚本": "福田裕子",
+      "話数": 102,
+      "_key": "pripara_102"
+    },
+    {
+      "lives": [
+        "pripara_103_charisma_to_girl_yeah",
+        "pripara_103_ready_smile"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "落第アイドル始めちゃいました(T T)",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/7/5",
+      "演出": "佐藤まさふみ",
+      "絵コンテ": "池端隆史",
+      "脚本": "金杉弘子",
+      "話数": 103,
+      "_key": "pripara_103"
+    },
+    {
+      "lives": [
+        "pripara_104_debi_en_reversible_ring"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "LOVE！デビル色！魔力があればなんでもデビル！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/7/12",
+      "演出": "渡辺健一郎",
+      "絵コンテ": "渡辺健一郎",
+      "脚本": "ふでやすかずゆき",
+      "話数": 104,
+      "_key": "pripara_104"
+    },
+    {
+      "lives": [
+        "pripara_105_amazing_castle"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "ガァルル、目覚めるでちゅーっ!!",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/7/19",
+      "演出": "小林浩輔",
+      "絵コンテ": "江島泰男",
+      "脚本": "大場小ゆり",
+      "話数": 105,
+      "_key": "pripara_105"
+    },
+    {
+      "lives": [
+        "pripara_106_amazing_castle"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "神アイドルグランプリ終了です",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/7/26",
+      "演出": "伊藤史夫",
+      "絵コンテ": "柊陽菜",
+      "脚本": "土屋理敬",
+      "話数": 106,
+      "_key": "pripara_106"
+    },
+    {
+      "lives": [
+        "pripara_107_just_my_chance_call",
+        "pripara_107_marble_make_up_a_ha_ha",
+        "pripara_107_panic_labyrinth",
+        "pripara_107_pretty_prism_paradise",
+        "pripara_107_virtual_idol"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "緊急会議！びんわんマネージャーだクマ！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/8/2",
+      "演出": "小林浩輔",
+      "脚本": "佐藤まさふみ",
+      "話数": 107,
+      "_key": "pripara_107"
+    },
+    {
+      "lives": [
+        "pripara_108_konouta_tomareihi"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "帰ってきたプリパリ",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "2016/8/9",
+      "演出": "小林浩輔",
+      "絵コンテ": "葛谷直行",
+      "脚本": "中村能子",
+      "話数": 108,
+      "_key": "pripara_108"
+    },
+    {
+      "lives": [
+        "pripara_109_ready_smile",
+        "pripara_109_run_for_jumping"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "サパンナからSOS",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/8/16",
+      "演出": "小林浩輔",
+      "絵コンテ": "金崎貴臣",
+      "脚本": "金杉弘子",
+      "話数": 109,
+      "_key": "pripara_109"
+    },
+    {
+      "lives": [
+        "pripara_110_change_my_world",
+        "pripara_110_ready_smile",
+        "pripara_110_tondemo_summer_adventure"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Choi Hun Cheol",
+      "サブタイトル": "水泳大会ぷり！イゴ！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/8/23",
+      "演出": "室谷靖",
+      "絵コンテ": "柊陽菜",
+      "脚本": "福田裕子",
+      "話数": 110,
+      "_key": "pripara_110"
+    },
+    {
+      "lives": [
+        "pripara_111_jun_amore_ai",
+        "pripara_111_love_week_old",
+        "pripara_111_papipupe_police"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "子連れ怪盗まほちゃん",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/8/30",
+      "演出": "小林浩輔",
+      "絵コンテ": "池端隆史",
+      "脚本": "土屋理敬",
+      "話数": 111,
+      "_key": "pripara_111"
+    },
+    {
+      "lives": [
+        "pripara_112_ready_smile"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "恋恋ジュルル",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/9/6",
+      "演出": "江島泰男",
+      "絵コンテ": "江島泰男",
+      "脚本": "ふでやすかずゆき",
+      "話数": 112,
+      "_key": "pripara_112"
+    },
+    {
+      "lives": [
+        "pripara_113_charisma_to_girl_yeah"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "ちりちりちりちゃん!",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/9/13",
+      "演出": "小林浩輔",
+      "絵コンテ": "藤澤俊幸",
+      "脚本": "大場小ゆり",
+      "話数": 113,
+      "_key": "pripara_113"
+    },
+    {
+      "lives": [
+        "pripara_114_amazing_castle",
+        "pripara_114_mon_chouchou"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Choi Hun Cheol",
+      "サブタイトル": "急げ！神アイドルグランプリ！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/9/20",
+      "演出": "小林浩輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "中村能子",
+      "話数": 114,
+      "_key": "pripara_114"
+    },
+    {
+      "lives": [
+        "pripara_115_mon_chouchou",
+        "pripara_115_ready_smile",
+        "pripara_115_run_for_jumping"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "ひびけ！神アイドルグランプリ！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/9/27",
+      "演出": "室谷靖",
+      "絵コンテ": "今中菜々",
+      "脚本": "福田裕子",
+      "話数": 115,
+      "_key": "pripara_115"
+    },
+    {
+      "lives": [
+        "pripara_116_charisma_to_girl_yeah"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "消えたマネージャー！謎のサパンナ少女",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "榎本花子",
+      "放送日(TXN)": "2016/10/4",
+      "演出": "伊藤史夫",
+      "絵コンテ": "金崎貴臣",
+      "脚本": "金杉弘子",
+      "話数": 116,
+      "_key": "pripara_116"
+    },
+    {
+      "lives": [
+        "pripara_117_girls_fantasy"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "女神、アイドル始めちゃいました",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/10/11",
+      "演出": "小林浩輔",
+      "絵コンテ": "政木伸一",
+      "脚本": "土屋理敬",
+      "話数": 117,
+      "_key": "pripara_117"
+    },
+    {
+      "lives": [
+        "pripara_118_charisma_to_girl_yeah"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Choi Hun Cheol",
+      "サブタイトル": "姉と妹と姫と野獣",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/10/18",
+      "演出": "江島泰男",
+      "絵コンテ": "葛谷直行",
+      "脚本": "福田裕子",
+      "話数": 118,
+      "_key": "pripara_118"
+    },
+    {
+      "lives": [
+        "pripara_119_amazing_castle"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "ほら〜！ハロマゲドンにゃ",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/10/25",
+      "演出": "渡辺健一郎",
+      "絵コンテ": "渡辺健一郎",
+      "脚本": "江夏由結",
+      "話数": 119,
+      "_key": "pripara_119"
+    },
+    {
+      "lives": [
+        "pripara_120_sugarless_friend"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "甘くはいかないノンシュガー",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/11/1",
+      "演出": "小林浩輔",
+      "絵コンテ": "誌村宏明",
+      "脚本": "中村能子",
+      "話数": 120,
+      "_key": "pripara_120"
+    },
+    {
+      "lives": [
+        "pripara_121_run_for_jumping"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "めざめよ！女神のドレスデザイン",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/11/8",
+      "演出": "室谷靖",
+      "絵コンテ": "柊陽菜",
+      "脚本": "大場小ゆり",
+      "話数": 121,
+      "_key": "pripara_121"
+    },
+    {
+      "lives": [
+        "pripara_122_marble_make_up_a_ha_ha",
+        "pripara_122_ready_smile"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Choi Hun Cheol",
+      "サブタイトル": "姉妹でかしこまっ！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/11/15",
+      "演出": "小林浩輔",
+      "絵コンテ": "藤澤俊幸",
+      "脚本": "金杉弘子",
+      "話数": 122,
+      "_key": "pripara_122"
+    },
+    {
+      "lives": [
+        "pripara_123_sugarless_friend"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "ノンシュガー漂流記",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/11/22",
+      "演出": "江島泰男",
+      "絵コンテ": "葛谷直行",
+      "脚本": "福田裕子",
+      "話数": 123,
+      "_key": "pripara_123"
+    },
+    {
+      "lives": [
+        "pripara_124_girls_fantasy",
+        "pripara_124_sugarless_friend"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "ジュリィとジャニス",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/11/29",
+      "演出": "小林浩輔",
+      "絵コンテ": "政木伸一",
+      "脚本": "土屋理敬",
+      "話数": 124,
+      "_key": "pripara_124"
+    },
+    {
+      "lives": [
+        "pripara_125_ready_smile"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "レッツ・ライブ！主役はもちろん君さ！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/12/6",
+      "演出": "江島泰男",
+      "絵コンテ": "柊陽菜",
+      "脚本": "大場小ゆり",
+      "話数": 125,
+      "_key": "pripara_125"
+    },
+    {
+      "lives": [
+        "pripara_126_amazing_castle",
+        "pripara_126_ready_smile",
+        "pripara_126_run_for_jumping"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "メリー・グランプリ！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/12/13",
+      "演出": "小林浩輔",
+      "絵コンテ": "池端隆史",
+      "脚本": "江夏由結",
+      "話数": 126,
+      "_key": "pripara_126"
+    },
+    {
+      "lives": [
+        "pripara_127_sugarless_friend"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "グランプリは甘くないウチャ",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/12/20",
+      "演出": "小林浩輔",
+      "絵コンテ": "藤澤俊幸",
+      "脚本": "中村能子",
+      "話数": 127,
+      "_key": "pripara_127"
+    },
+    {
+      "lives": [
+        "pripara_128_sugarless_friend"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "さよならウサチャ…。",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2016/12/27",
+      "演出": "江島泰男",
+      "絵コンテ": "柊陽菜",
+      "脚本": "金杉弘子",
+      "話数": 128,
+      "_key": "pripara_128"
+    },
+    {
+      "lives": [
+        "pripara_129_idle_wo_torimodose"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "み〜んなにチャンス！？リベンジライブ！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2017/1/10",
+      "演出": "渡辺健一郎",
+      "絵コンテ": "渡辺健一郎",
+      "脚本": "大場小ゆり",
+      "話数": 129,
+      "_key": "pripara_129"
+    },
+    {
+      "lives": [
+        "pripara_130_girls_fantasy"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "女神の想い、ママの誓い",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2017/1/17",
+      "演出": "小林浩輔",
+      "絵コンテ": "森脇真琴",
+      "脚本": "福田裕子",
+      "話数": 130,
+      "_key": "pripara_130"
+    },
+    {
+      "lives": [
+        "pripara_131_idle_wo_torimodose"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "天国と地獄？決戦前夜！",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2017/1/24",
+      "演出": "川村ひろし",
+      "絵コンテ": "岡田水樹",
+      "脚本": "金杉弘子",
+      "話数": 131,
+      "_key": "pripara_131"
+    },
+    {
+      "lives": [
+        "pripara_132_amazing_castle",
+        "pripara_132_run_for_jumping"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "ロッキン・ガァジラ大決戦",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "戸田さやか",
+      "放送日(TXN)": "2017/1/31",
+      "演出": "小林浩輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "中村能子",
+      "話数": 132,
+      "_key": "pripara_132"
+    },
+    {
+      "lives": [
+        "pripara_133_idle_wo_torimodose",
+        "pripara_133_love_week_old",
+        "pripara_133_mon_chouchou"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "語尾の彼方",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "2017/2/7",
+      "演出": "江島泰男",
+      "絵コンテ": "藤澤俊幸",
+      "脚本": "大場小ゆり",
+      "話数": 133,
+      "_key": "pripara_133"
+    },
+    {
+      "lives": [
+        "pripara_134_ready_smile",
+        "pripara_134_sugarless_friend"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "バレンタインは甘くない",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "2017/2/14",
+      "演出": "江島泰男",
+      "絵コンテ": "川口敬一郎",
+      "脚本": "福田裕子",
+      "話数": 134,
+      "_key": "pripara_134"
+    },
+    {
+      "lives": [
+        "pripara_135_make_it",
+        "pripara_135_mon_chouchou"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "スマイル0%",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "2017/2/21",
+      "演出": "小林浩輔",
+      "絵コンテ": "誌村宏明",
+      "脚本": "福田裕子",
+      "話数": 135,
+      "_key": "pripara_135"
+    },
+    {
+      "lives": [
+        "pripara_136_realize"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "3年目のテッパン",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "2017/2/28",
+      "演出": "小林浩輔",
+      "絵コンテ": "池端隆史",
+      "脚本": "金杉弘子",
+      "話数": 136,
+      "_key": "pripara_136"
+    },
+    {
+      "lives": [],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Nam Sung Min",
+      "サブタイトル": "決戦！神アイドル",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "2017/3/7",
+      "演出": "江島泰男",
+      "絵コンテ": "川口敬一郎",
+      "脚本": "大場小ゆり",
+      "話数": 137,
+      "_key": "pripara_137"
+    },
+    {
+      "lives": [
+        "pripara_138_girls_fantasy",
+        "pripara_138_i_friend_you",
+        "pripara_138_love_is_friend"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Na Ki Chual",
+      "サブタイトル": "誕生！？神アイドル！",
+      "ストーリーボード": "Na Ki Chual",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "2017/3/14",
+      "演出": "小林浩輔",
+      "絵コンテ": "藤澤俊幸",
+      "脚本": "中村能子",
+      "話数": 138,
+      "_key": "pripara_138"
+    },
+    {
+      "lives": [
+        "pripara_139_i_friend_you",
+        "pripara_139_memories_medley",
+        "pripara_139_my_friend_dear_friend",
+        "pripara_139_we_are_the_friends"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Jeon Byung Cheol",
+      "サブタイトル": "愛フレンド友",
+      "ストーリーボード": "Nam Sung Min",
+      "作画監修": "本多恵美",
+      "放送日(TXN)": "2017/3/21",
+      "演出": "小林浩輔",
+      "絵コンテ": "柊陽菜",
+      "脚本": "大島のぞむ",
+      "話数": 139,
+      "_key": "pripara_139"
+    },
+    {
+      "lives": [
+        "pripara_140_amazing_castle",
+        "pripara_140_girls_fantasy",
+        "pripara_140_idle_wo_torimodose",
+        "pripara_140_mon_chouchou",
+        "pripara_140_no_d_and_d_code",
+        "pripara_140_sugarless_friend"
+      ],
+      "episodeOfSeries": "pripara",
+      "アニメーション演出": "Park Chi Man",
+      "サブタイトル": "み〜んなトモダチ！ず〜っとトモダチ！",
+      "ストーリーボード": "Park Chi Man",
+      "作画監修": "斉藤里枝",
+      "放送日(TXN)": "2017/3/28",
+      "演出": "渡辺健一郎",
+      "絵コンテ": "渡辺健一郎",
+      "脚本": "福田裕子",
+      "話数": 140,
+      "_key": "pripara_140"
+    }
+  ]
+}
