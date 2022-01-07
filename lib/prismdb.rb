@@ -1,6 +1,5 @@
 require "prismdb/version"
 require "faraday"
-require "faraday_middleware"
 
 module Prismdb
   autoload :Client,        "prismdb/client"
