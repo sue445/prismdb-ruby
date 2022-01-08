@@ -1,12 +1,13 @@
 RSpec.describe Prismdb::Client do
   let(:client) { Prismdb::Client.new }
+  let(:response_headers) { { "Content-Type" =>  "application/json" } }
 
   describe "#get_characters" do
     subject(:characters) { client.get_characters }
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/character").
-        to_return(status: 200, body: fixture("character.json"))
+        to_return(status: 200, headers: response_headers, body: fixture("character.json"))
     end
 
     its(:count) { should be > 0 }
@@ -26,7 +27,7 @@ RSpec.describe Prismdb::Client do
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/character/manaka_laala").
-        to_return(status: 200, body: fixture("character-manaka_laala.json"))
+        to_return(status: 200, headers: response_headers, body: fixture("character-manaka_laala.json"))
     end
 
     let(:key) { "manaka_laala" }
@@ -42,7 +43,7 @@ RSpec.describe Prismdb::Client do
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/episode").
-        to_return(status: 200, body: fixture("episode.json"))
+        to_return(status: 200, headers: response_headers, body: fixture("episode.json"))
     end
 
     its(:count) { should be > 0 }
@@ -61,7 +62,7 @@ RSpec.describe Prismdb::Client do
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/episode/pripara_1").
-        to_return(status: 200, body: fixture("episode-pripara_1.json"))
+        to_return(status: 200, headers: response_headers, body: fixture("episode-pripara_1.json"))
     end
 
     let(:key) { "pripara_1" }
@@ -75,7 +76,7 @@ RSpec.describe Prismdb::Client do
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/song").
-        to_return(status: 200, body: fixture("song.json"))
+        to_return(status: 200, headers: response_headers, body: fixture("song.json"))
     end
 
     its(:count) { should be > 0 }
@@ -93,7 +94,7 @@ RSpec.describe Prismdb::Client do
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/song/make_it").
-        to_return(status: 200, body: fixture("song-make_it.json"))
+        to_return(status: 200, headers: response_headers, body: fixture("song-make_it.json"))
     end
 
     let(:key) { "make_it" }
@@ -107,7 +108,7 @@ RSpec.describe Prismdb::Client do
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/live").
-        to_return(status: 200, body: fixture("live.json"))
+        to_return(status: 200, headers: response_headers, body: fixture("live.json"))
     end
 
     its(:count) { should be > 0 }
@@ -125,7 +126,7 @@ RSpec.describe Prismdb::Client do
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/live/pripara_1_make_it").
-        to_return(status: 200, body: fixture("live-pripara_1_make_it.json"))
+        to_return(status: 200, headers: response_headers, body: fixture("live-pripara_1_make_it.json"))
     end
 
     let(:key) { "pripara_1_make_it" }
@@ -139,7 +140,7 @@ RSpec.describe Prismdb::Client do
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/series").
-        to_return(status: 200, body: fixture("series.json"))
+        to_return(status: 200, headers: response_headers, body: fixture("series.json"))
     end
 
     its(:count) { should be > 0 }
@@ -157,7 +158,7 @@ RSpec.describe Prismdb::Client do
 
     before do
       stub_request(:get, "https://prismdb.takanakahiko.me/api/series/pripara").
-        to_return(status: 200, body: fixture("series-pripara.json"))
+        to_return(status: 200, headers: response_headers, body: fixture("series-pripara.json"))
     end
 
     let(:key) { "pripara" }
