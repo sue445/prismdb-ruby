@@ -1,5 +1,6 @@
 require "prismdb/version"
 require "faraday"
+require "faraday/mashify"
 
 module Prismdb
   autoload :Client,        "prismdb/client"
