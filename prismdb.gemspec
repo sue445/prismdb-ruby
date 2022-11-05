@@ -28,4 +28,6 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "faraday", ">= 2.0.0"
   spec.add_dependency "faraday-mashify"
+
+  spec.add_development_dependency "yard"
 end
