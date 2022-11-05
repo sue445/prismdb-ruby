@@ -12,6 +12,8 @@ end
 
 require "bundler/setup"
 require "prismdb"
+require "webmock/rspec"
+require "rspec/its"
 
 Bundler.require
 
