@@ -40,6 +40,7 @@ Gem::Specification.new do |spec|
   # https://github.com/codeclimate/test-reporter/issues/418
   spec.add_development_dependency "simplecov", "~> 0.10", "< 0.18"
 
+  spec.add_development_dependency "term-ansicolor", "!= 1.11.1" # ref. https://github.com/flori/term-ansicolor/issues/41
   spec.add_development_dependency "webmock"
   spec.add_development_dependency "yard"
 end
