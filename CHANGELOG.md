@@ -1,5 +1,11 @@
 ## Unreleased
-[full changelog](http://github.com/sue445/prismdb-ruby/compare/v1.0.0...master)
+[full changelog](http://github.com/sue445/prismdb-ruby/compare/v1.0.1...master)
+
+## [v1.0.1](https://github.com/sue445/prismdb-ruby/releases/tag/v1.0.1)
+[full changelog](http://github.com/sue445/prismdb-ruby/compare/v1.0.0...v1.0.1)
+
+* Release gem from GitHub Actions
+  * https://github.com/sue445/prismdb-ruby/pull/40
 
 ## v1.0.0
 [full changelog](http://github.com/sue445/prismdb-ruby/compare/v0.1.1...v1.0.0)
