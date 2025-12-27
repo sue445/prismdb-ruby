@@ -31,6 +31,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "faraday-mashify"
 
   spec.add_development_dependency "coveralls_reborn"
+  spec.add_development_dependency "irb"
   spec.add_development_dependency "rake"
   spec.add_development_dependency "rdoc"
   spec.add_development_dependency "rspec"
